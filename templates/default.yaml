@@ -1,0 +1,9 @@
+# The default template is rendered by image_generator.py.
+# Documentation only; editable geometry lives in config/settings.yaml.
+# Natural prose reflows into a compact block of at most four rendered lines.
+name: default
+background: "#F5F3EF"
+quote_alignment: left
+uses_decorations: false
+uses_gradient: false
+uses_border: false

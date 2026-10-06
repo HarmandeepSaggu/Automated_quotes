@@ -1,0 +1,21 @@
+# Secrets and runtime state
+.env
+.venv/
+__agent__/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated application data (keep directory placeholders)
+output/*
+!output/.gitkeep
+logs/*
+!logs/.gitkeep
+history/history.json
+history/*.lock
+history/analytics.json
+history/audio_rotation.json
+
+# Local font files may have separate licenses
+fonts/*.ttf
+fonts/*.otf

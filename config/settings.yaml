@@ -1,0 +1,112 @@
+# Glimpse Of Thoughts - brand-locked application settings
+# Paths are relative to the project root unless absolute.
+brand:
+  name: "Glimpse Of Thoughts"
+  lock_mode: true
+
+image:
+  width: 1080
+  height: 1350
+  background: "#F5F3EF"
+  quote_color: "#2B2B2B"
+  signature_color: "#555555"
+  font_size: 36
+  min_font_size: 34 # Bounded fit for longer quotes; never shrink below readability.
+  line_height: 1.4 # Total baseline spacing, not extra blank space between lines.
+  quote:
+    x: 100
+    y: 450
+    width: 880
+    max_lines: 4
+    max_height: 220
+  signature:
+    x: 100
+    y: 1000
+  fonts:
+    - "fonts/CormorantGaramond-Italic.ttf"
+    - "fonts/PlayfairDisplay-Italic.ttf"
+    - "fonts/LibreBaskerville-Italic.ttf"
+    - "C:/Windows/Fonts/georgiai.ttf"
+    - "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Italic.ttf"
+  signature_font_size: 20
+
+quotes:
+  source: "auto" # auto, txt, csv, or ai
+  text_file: "quotes/quotes.txt"
+  csv_file: "quotes/quotes.csv"
+  categories:
+    - "Life"
+    - "Self Growth"
+    - "Motivation"
+    - "Sikh Wisdom"
+    - "Discipline"
+    - "Success"
+    - "Relationships"
+    - "Stoicism"
+    - "Mindfulness"
+
+caption:
+  max_lines: 2
+
+hashtags:
+  count: 20
+
+openai:
+  model: "gpt-4o-mini"
+  timeout_seconds: 30
+
+output:
+  directory: "output"
+  history_file: "history/history.json"
+  date_format: "%Y-%m-%d"
+
+analytics:
+  enabled: false
+  file: "history/analytics.json"
+
+preview:
+  enabled: true
+  open_image: true
+
+# Instagram Reels is enabled. Credentials and the public video URL are still required in .env.
+platforms:
+  - instagram
+# Add other platforms only when their credentials and media requirements are configured.
+# Platform-specific IDs are read from environment variables or can be placed here.
+platform_settings:
+  instagram:
+    api_version: "v25.0"
+    # Leave blank to auto-detect from the token type.
+    api_host: ""
+    account_id: ""
+    # Reels are generated locally from the quote image and the next file in Audio/.
+    media_type: "reels" # reels or image
+    audio_directory: "Audio"
+    audio_rotation_file: "history/audio_rotation.json"
+    public_image_url: ""
+    public_video_url: ""
+    share_to_feed: true
+    container_timeout_seconds: 300
+    container_poll_interval_seconds: 5
+    video:
+      width: 1080
+      height: 1920
+      fps: 30
+      duration_seconds: 10
+  facebook:
+    api_version: "v20.0"
+    page_id: ""
+  threads:
+    api_version: "v1.0"
+    user_id: ""
+    public_image_url: ""
+  twitter:
+    api_version: "2"
+  pinterest:
+    api_version: "v5"
+    board_id: ""
+    public_image_url: ""
+
+network:
+  timeout_seconds: 30
+  retries: 2

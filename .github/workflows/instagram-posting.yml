@@ -1,0 +1,131 @@
+name: Scheduled Instagram posting
+
+on:
+  # GitHub Actions cron uses UTC. These are 11:00, 16:30, and 21:30 IST.
+  schedule:
+    - cron: "30 5 * * *"   # 11:00 IST
+    - cron: "0 11 * * *"   # 16:30 IST
+    - cron: "0 16 * * *"   # 21:30 IST
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Posting slot to run now"
+        required: true
+        default: morning
+        type: choice
+        options:
+          - morning
+          - evening
+          - night
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram-posting
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      # Keep date-based output and logs aligned with the posting schedule.
+      TZ: Asia/Kolkata
+
+      # The Python code reads these names directly from its environment. No .env
+      # file is created on the runner and no credential is stored in the repo.
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+      INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+      INSTAGRAM_API_HOST: ${{ secrets.INSTAGRAM_API_HOST }}
+      CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+      CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+      CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+      CLOUDINARY_UPLOAD_PRESET: ${{ secrets.CLOUDINARY_UPLOAD_PRESET }}
+      CLOUDINARY_FOLDER: ${{ secrets.CLOUDINARY_FOLDER }}
+      FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
+      FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
+      THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+      THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+      TWITTER_TOKEN: ${{ secrets.TWITTER_TOKEN }}
+      TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+      TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+      TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+      TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+      PINTEREST_TOKEN: ${{ secrets.PINTEREST_TOKEN }}
+      PINTEREST_BOARD_ID: ${{ secrets.PINTEREST_BOARD_ID }}
+      PUBLIC_IMAGE_BASE_URL: ${{ secrets.PUBLIC_IMAGE_BASE_URL }}
+      PUBLIC_VIDEO_BASE_URL: ${{ secrets.PUBLIC_VIDEO_BASE_URL }}
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Select posting slot
+        id: slot
+        shell: bash
+        env:
+          SCHEDULE_CRON: ${{ github.event.schedule }}
+          MANUAL_SLOT: ${{ inputs.slot }}
+        run: |
+          set -euo pipefail
+
+          if [[ -n "${MANUAL_SLOT}" ]]; then
+            slot="${MANUAL_SLOT}"
+          else
+            case "${SCHEDULE_CRON}" in
+              "30 5 * * *") slot="morning" ;;
+              "0 11 * * *") slot="evening" ;;
+              "0 16 * * *") slot="night" ;;
+              *)
+                echo "::error::Could not identify the scheduled posting slot. Cron: ${SCHEDULE_CRON}"
+                exit 1
+                ;;
+            esac
+          fi
+
+          # Include the Actions run and attempt so a retry cannot replace the
+          # previous post's history entry for the same daily slot.
+          echo "run_id=${slot}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" >> "${GITHUB_OUTPUT}"
+          echo "Selected posting slot: ${slot}"
+
+      - name: Generate and publish Instagram post
+        run: python main.py --yes --no-preview --run-id "${{ steps.slot.outputs.run_id }}"
+
+      # history.json prevents quote reuse and audio_rotation.json keeps Reel
+      # audio cycling. Persist only those state files; output media is temporary.
+      - name: Persist posting state
+        if: always()
+        shell: bash
+        env:
+          BRANCH_NAME: ${{ github.ref_name }}
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for state_file in history/history.json history/audio_rotation.json; do
+            if [[ -f "${state_file}" ]]; then
+              git add -f "${state_file}"
+            fi
+          done
+
+          if git diff --cached --quiet; then
+            echo "No posting state changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: persist Instagram posting state"
+          git push origin "HEAD:${BRANCH_NAME}"

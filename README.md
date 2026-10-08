@@ -28,7 +28,7 @@ Instagram Reels is enabled in `config/settings.yaml`. A fresh installation remai
 
 ## Generated files
 
-For `2025-01-31`, the application writes:
+For a manual run on `2025-01-31`, the application writes:
 
 - `output/2025-01-31.png` — 1080 x 1350 PNG
 - `output/2025-01-31-reel.mp4` — 1080 x 1920 Reel video when Instagram Reels are enabled
@@ -36,6 +36,8 @@ For `2025-01-31`, the application writes:
 - `output/2025-01-31-caption.txt` — caption and hashtags
 - `history/history.json` — durable quote and publication history
 - `logs/app.log` — generation and posting events
+
+Scheduled runs use a slot suffix so all three posts can be kept on the same date. For example, the morning run writes `output/2025-01-31-morning.png` and its matching JSON, caption, and Reel files.
 
 The history file is written atomically and records quote, date, image, status, and each platform result. Used quote text is normalized so whitespace and case changes cannot bypass duplicate protection.
 
@@ -54,6 +56,7 @@ Edit `config/settings.yaml` to change brand and operational settings:
 - preview behavior
 - optional local analytics (`analytics.enabled` and `analytics.file`)
 - Instagram Reel settings (`platform_settings.instagram.media_type`, `audio_directory`, and `video`)
+- Windows scheduled posting times (the installer defaults to 11:00, 16:30, and 21:30)
 
 When Instagram is configured with `media_type: reels`, the renderer places the existing 1080 x 1350 quote image on a 1080 x 1920 canvas, muxes the next audio file from `Audio/`, and repeats the five-file rotation after the last file. The rotation advances only after Instagram reports a successful Reel publish; cancelled, dry-run, and failed runs reuse the same audio. Files are selected alphabetically by filename.
 
@@ -113,7 +116,7 @@ Layout tests check all 500 paragraphs, natural-pause wrapping, source-newline no
 
 ### Environment variables
 
-Copy `.env.example` to `.env`. Never commit `.env`.
+For local runs, copy `.env.example` to `.env`. Never commit `.env`. For GitHub Actions, create repository secrets with the same names instead; the workflow passes them directly to the existing Python process and does not create a `.env` file.
 
 - `OPENAI_API_KEY`
 - `INSTAGRAM_TOKEN`, `INSTAGRAM_ACCOUNT_ID`
@@ -162,7 +165,7 @@ platform_settings:
     public_video_url: ""
 ```
 
-Configure Cloudinary in `.env` and the application uploads the generated MP4 before creating the Instagram media container. It sends Cloudinary's returned HTTPS URL to Instagram. If Cloudinary is not configured, set `public_video_url` to the public URL of the generated MP4, or set `PUBLIC_VIDEO_BASE_URL` in `.env` to the public directory URL serving `output/`. Instagram's Content Publishing API requires the video URL to be publicly reachable over HTTPS. The local audio is encoded into the Reel as original audio; an Instagram Saved-audio track cannot be attached or selected through this API.
+Configure Cloudinary locally in `.env`, or in GitHub repository secrets for Actions. The application uploads the generated MP4 before creating the Instagram media container and sends Cloudinary's returned HTTPS URL to Instagram. If Cloudinary is not configured, set `public_video_url` to the public URL of the generated MP4, or set `PUBLIC_VIDEO_BASE_URL` to the public directory URL serving `output/`. Instagram's Content Publishing API requires the video URL to be publicly reachable over HTTPS. The local audio is encoded into the Reel as original audio; an Instagram Saved-audio track cannot be attached or selected through this API.
 
 ## Command-line modes
 
@@ -181,12 +184,56 @@ python main.py --date 2026-01-31 # deterministic date for a scheduled run
 
 ## Scheduling
 
-Example helpers are provided in `scripts/`:
+Production scheduling is handled by GitHub Actions, so posting continues when the laptop is off. The workflow is `.github/workflows/instagram-posting.yml` and uses GitHub's UTC cron with the `Asia/Kolkata` timezone for application dates.
 
-- Windows Task Scheduler: `scripts/run_daily.bat`
-- Linux/macOS cron: `scripts/run_daily.sh`
+### 1. Add GitHub repository secrets
 
-Use an absolute project path in the scheduler, run from the project directory, and choose `--yes` only for a reviewed automated workflow. Keep secrets in a protected `.env` file.
+In the GitHub repository, open **Settings → Secrets and variables → Actions → New repository secret**. Add the credentials used by the enabled platforms. For the current Instagram Reels configuration, add:
+
+- `INSTAGRAM_TOKEN`
+- `INSTAGRAM_ACCOUNT_ID`
+- `CLOUDINARY_CLOUD_NAME`
+- `CLOUDINARY_API_KEY` and `CLOUDINARY_API_SECRET` (signed uploads), **or** `CLOUDINARY_UPLOAD_PRESET`
+
+Optional secrets used by the current workflow are `INSTAGRAM_API_HOST`, `CLOUDINARY_FOLDER`, `OPENAI_API_KEY`, and `PUBLIC_VIDEO_BASE_URL`. The workflow also maps the Facebook, Threads, X/Twitter, Pinterest, and public-image variables listed in the [environment variables](#environment-variables) section if those platforms are enabled later. Do not put tokens directly in the workflow file.
+
+### 2. Allow the workflow to save posting state
+
+The workflow needs to commit `history/history.json` and `history/audio_rotation.json` back to the repository. In **Settings → Actions → General → Workflow permissions**, select **Read and write permissions** and save. The workflow already declares `contents: write`.
+
+The state commit is required because GitHub-hosted runners are temporary. It preserves duplicate-quote protection and Reel audio rotation between runs. Generated images, videos, and logs remain temporary and are not committed.
+
+### 3. Enable and test the workflow
+
+Push the workflow to the repository's default branch, then open **Actions → Scheduled Instagram posting → Run workflow**. Choose a slot and run it once to verify the secrets and Instagram setup. The automatic schedule is:
+
+- 11:00 AM — morning post
+- 4:30 PM — evening post
+- 9:30 PM — night post
+
+GitHub Actions cron is UTC, so the workflow uses:
+
+```text
+05:30 UTC = 11:00 IST
+11:00 UTC = 16:30 IST
+16:00 UTC = 21:30 IST
+```
+
+GitHub may start scheduled workflows a few minutes late during platform load. Manual runs use the same Python posting command and slot-specific output names.
+
+If Windows Task Scheduler was enabled previously, remove its three old tasks once the GitHub workflow has been tested:
+
+```powershell
+Set-ExecutionPolicy -Scope Process Bypass
+.\scripts\uninstall_scheduler.ps1
+```
+
+The local runners remain useful for manual troubleshooting:
+
+- Windows: `scripts/run_daily.bat --run-id morning`
+- Linux/macOS: `scripts/run_daily.sh --run-id morning`
+
+The scheduled runner uses a slot-specific run ID so a morning, evening, and night post each get their own output files. GitHub Actions also adds its run and attempt IDs so retries cannot replace an earlier history entry. Keep local secrets in a protected `.env` file.
 
 ## Operational notes
 

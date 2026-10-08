@@ -8,6 +8,7 @@ import argparse
 import json
 import logging
 import os
+import re
 import sys
 import tempfile
 from datetime import date
@@ -60,7 +61,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--yes", action="store_true", help="Approve posting without asking (for controlled automation)")
     parser.add_argument("--dry-run", action="store_true", help="Generate and preview without publishing or prompting")
     parser.add_argument("--no-preview", action="store_true", help="Do not open the graphical preview")
-    parser.add_argument("--force", action="store_true", help="Allow replacement of existing output for the date")
+    parser.add_argument("--force", action="store_true", help="Allow replacement of existing output for this run")
+    parser.add_argument(
+        "--run-id",
+        help="Optional stable identifier for a scheduled slot, such as morning or night",
+    )
     return parser.parse_args()
 
 
@@ -101,6 +106,16 @@ def ask_for_confirmation() -> bool:
     return answer in {"y", "yes"}
 
 
+def output_stem(date_string: str, run_id: str | None) -> str:
+    """Return a safe output name, allowing multiple posts on one date."""
+    if not run_id:
+        return date_string
+    cleaned = re.sub(r"[^A-Za-z0-9._-]+", "-", run_id).strip(".-_")
+    if not cleaned:
+        raise ValueError("--run-id must contain at least one letter or number")
+    return f"{date_string}-{cleaned[:64]}"
+
+
 def main() -> int:
     args = parse_args()
     # The project-local .env is the source of truth for this desktop workflow.
@@ -114,12 +129,13 @@ def main() -> int:
             settings["quotes"]["source"] = args.source
         post_date = date.fromisoformat(args.post_date) if args.post_date else date.today()
         date_string = post_date.strftime(settings["output"].get("date_format", "%Y-%m-%d"))
+        file_stem = output_stem(date_string, args.run_id)
         output_dir = resolve_path(ROOT, settings["output"]["directory"])
-        image_path = output_dir / f"{date_string}.png"
-        metadata_path = output_dir / f"{date_string}.json"
-        caption_path = output_dir / f"{date_string}-caption.txt"
+        image_path = output_dir / f"{file_stem}.png"
+        metadata_path = output_dir / f"{file_stem}.json"
+        caption_path = output_dir / f"{file_stem}-caption.txt"
         if image_path.exists() and not args.force:
-            raise RuntimeError(f"Output already exists for {date_string}; use --force to replace it")
+            raise RuntimeError(f"Output already exists for {file_stem}; use --force to replace it")
 
         history = HistoryManager(resolve_path(ROOT, settings["output"]["history_file"]))
         quote = QuoteEngine(ROOT, settings, history).next_quote()
@@ -133,7 +149,7 @@ def main() -> int:
         if instagram_reels_enabled(settings):
             audio_rotation = AudioRotation(ROOT, settings)
             audio_selection = audio_rotation.select()
-            video_path = output_dir / f"{date_string}-reel.mp4"
+            video_path = output_dir / f"{file_stem}-reel.mp4"
             ReelGenerator(ROOT, settings).render(image_path, video_path, audio_selection.path)
             logger.info(
                 "Reel generation success | video=%s | audio=%s | audio_index=%s",

@@ -68,7 +68,8 @@ preview:
   enabled: true
   open_image: true
 
-# Instagram Reels is enabled. Credentials and the public video URL are still required in .env.
+# Instagram Reels is enabled. Credentials and public URLs are read from environment variables;
+# local runs may provide them through .env and GitHub Actions provides them through Secrets.
 platforms:
   - instagram
 # Add other platforms only when their credentials and media requirements are configured.

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "date": "2026-10-09",
+      "quote": {
+        "text": "You can want a better life and still resent how much of this one you have to spend preparing for it. Both feelings can be honest.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#meaningfullife",
+        "#positivity",
+        "#mindfulwriting",
+        "#reflectivewriting",
+        "#growth",
+        "#dailyreflection",
+        "#modernwisdom",
+        "#quotes",
+        "#innerstillness",
+        "#quotesdaily",
+        "#inspiration",
+        "#softstrength",
+        "#lifeinwords",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#deepquotes",
+        "#mindfulness",
+        "#quietwisdom",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-10-09-morning-37841208384-1.png",
+      "video": "output/2026-10-09-morning-37841208384-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-08T20:40:46+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18106746482246465",
+          "details": {}
+        }
+      ],
+      "status": "posted"
+    }
+  ]
+}

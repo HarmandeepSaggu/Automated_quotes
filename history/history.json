@@ -94,6 +94,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-09",
+      "quote": {
+        "text": "The promotion changed your title. It did not change the voice that keeps moving the point at which you are allowed to feel enough.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#modernwisdom",
+        "#success",
+        "#dailyreflection",
+        "#quotesdaily",
+        "#love",
+        "#innerstillness",
+        "#lifeinwords",
+        "#life",
+        "#softstrength",
+        "#deepquotes",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#quietwisdom",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-10-09-evening-37964854420-1.png",
+      "video": "output/2026-10-09-evening-37964854420-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-09T17:14:41+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18111514799152442",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

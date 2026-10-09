@@ -47,6 +47,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-09",
+      "quote": {
+        "text": "Some goals stay attractive because you only visit them in your imagination. A real commitment includes the ordinary afternoons you never put in the picture.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#reflectivewriting",
+        "#growth",
+        "#quietwisdom",
+        "#modernwisdom",
+        "#quotes",
+        "#editorialquotes",
+        "#quotesdaily",
+        "#inspiration",
+        "#thoughtfulwords",
+        "#lifeinwords",
+        "#motivation",
+        "#mindfulwriting",
+        "#deepquotes",
+        "#mindfulness",
+        "#dailyreflection",
+        "#selfgrowthjourney",
+        "#success",
+        "#innerstillness",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-10-09-morning-37927349614-1.png",
+      "video": "output/2026-10-09-morning-37927349614-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-09T12:01:36+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17896380402609571",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

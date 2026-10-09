@@ -141,6 +141,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-10",
+      "quote": {
+        "text": "Being needed at work can feel like love when you have forgotten the difference between people missing your presence and people missing what you handle.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#selfgrowthjourney",
+        "#life",
+        "#dailyreflection",
+        "#intentionalliving",
+        "#wisdom",
+        "#innerstillness",
+        "#mindsetshift",
+        "#positivity",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#growth",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#quotes",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#inspiration",
+        "#editorialquotes",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-10-10-night-37988453528-1.png",
+      "video": "output/2026-10-10-night-37988453528-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-10-09T20:39:47+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18077542091718873",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

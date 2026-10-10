@@ -329,6 +329,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-11",
+      "quote": {
+        "text": "The job is not your identity, but it fills enough of your week that pretending it has nothing to do with your unhappiness is not honest either.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#modernwisdom",
+        "#love",
+        "#quietwisdom",
+        "#quotesdaily",
+        "#life",
+        "#editorialquotes",
+        "#lifeinwords",
+        "#wisdom",
+        "#thoughtfulwords",
+        "#deepquotes",
+        "#positivity",
+        "#mindfulwriting",
+        "#selfgrowthjourney",
+        "#growth",
+        "#dailyreflection",
+        "#intentionalliving",
+        "#quotes",
+        "#innerstillness",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-10-11-night-38081558056-1.png",
+      "video": "output/2026-10-11-night-38081558056-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-10T19:53:19+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18332946016279447",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

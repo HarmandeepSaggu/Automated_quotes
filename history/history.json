@@ -235,6 +235,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-10",
+      "quote": {
+        "text": "There is a strange loneliness in getting exactly what you worked for and realizing you built the whole plan around someone else's idea of a good life.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#inspiration",
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#motivation",
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#innerstillness",
+        "#modernwisdom",
+        "#success",
+        "#softstrength",
+        "#quotesdaily",
+        "#love",
+        "#glimpseofthoughts",
+        "#lifeinwords",
+        "#life",
+        "#quietwisdom",
+        "#deepquotes"
+      ],
+      "image": "output/2026-10-10-morning-38047915499-1.png",
+      "video": "output/2026-10-10-morning-38047915499-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-10T11:18:12+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18107497295207932",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

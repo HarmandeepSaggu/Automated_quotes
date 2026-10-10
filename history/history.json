@@ -188,6 +188,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-10",
+      "quote": {
+        "text": "You thought success would make you less afraid. Now you have something to lose. The fear did not disappear; it simply learned more specific details.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#deepquotes",
+        "#mindfulness",
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#success",
+        "#softstrength",
+        "#intentionalliving",
+        "#love",
+        "#glimpseofthoughts",
+        "#mindsetshift",
+        "#life",
+        "#quietwisdom",
+        "#disciplineequalsfreedom",
+        "#wisdom",
+        "#editorialquotes",
+        "#meaningfullife",
+        "#positivity",
+        "#thoughtfulwords",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-10-10-evening-38044122962-1.png",
+      "video": "output/2026-10-10-evening-38044122962-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-10-10T10:13:09+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18141897193622738",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

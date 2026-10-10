@@ -282,6 +282,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-10",
+      "quote": {
+        "text": "An impressive answer to what you do can hide a difficult answer to how you are. Some people build the first so nobody asks the second.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#deepquotes",
+        "#inspiration",
+        "#glimpseofthoughts",
+        "#selfgrowthjourney",
+        "#motivation",
+        "#quietwisdom",
+        "#intentionalliving",
+        "#mindfulness",
+        "#editorialquotes",
+        "#mindsetshift",
+        "#success",
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#love",
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#life",
+        "#dailyreflection",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-10-10-evening-38065844714-1.png",
+      "video": "output/2026-10-10-evening-38065844714-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-10T16:00:00+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17912722068536410",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

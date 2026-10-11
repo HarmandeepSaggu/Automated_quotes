@@ -470,6 +470,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-12",
+      "quote": {
+        "text": "Comparison gets cruel when you compare your daily experience with someone else's public results. You know every doubt behind your work and almost nothing behind theirs.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#intentionalliving",
+        "#mindfulness",
+        "#innerstillness",
+        "#mindsetshift",
+        "#success",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#love",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#life",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#wisdom",
+        "#editorialquotes",
+        "#modernwisdom",
+        "#positivity",
+        "#thoughtfulwords",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-10-12-night-38170413753-1.png",
+      "video": "output/2026-10-12-night-38170413753-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-11T20:01:06+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18147704176561060",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

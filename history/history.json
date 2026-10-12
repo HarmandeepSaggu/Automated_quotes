@@ -611,6 +611,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-13",
+      "quote": {
+        "text": "You are allowed to notice that being good at something has trapped you into doing it long after you stopped wanting the life that comes with it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#modernwisdom",
+        "#life",
+        "#glimpseofthoughts",
+        "#quotesdaily",
+        "#wisdom",
+        "#quietwisdom",
+        "#lifeinwords",
+        "#positivity",
+        "#editorialquotes",
+        "#deepquotes",
+        "#growth",
+        "#thoughtfulwords",
+        "#selfgrowthjourney",
+        "#quotes",
+        "#mindfulwriting",
+        "#intentionalliving",
+        "#inspiration",
+        "#dailyreflection",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-10-13-night-38318668420-1.png",
+      "video": "output/2026-10-13-night-38318668420-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-10-12T22:47:55+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18133817425674749",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

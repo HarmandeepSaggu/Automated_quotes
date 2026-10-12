@@ -564,6 +564,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-13",
+      "quote": {
+        "text": "A full calendar can protect you from the embarrassment of not knowing what matters. If every hour is already spoken for, you never have to choose.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#wisdom",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#positivity",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#growth",
+        "#innerstillness",
+        "#deepquotes",
+        "#quotes",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#inspiration",
+        "#glimpseofthoughts",
+        "#intentionalliving",
+        "#motivation",
+        "#quietwisdom",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-10-13-evening-38301635653-1.png",
+      "video": "output/2026-10-13-evening-38301635653-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-12T20:02:51+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18269710864305269",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -658,6 +658,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-13",
+      "quote": {
+        "text": "People praise ambition more easily than they ask what it costs. You can become very impressive while quietly losing the ability to enjoy an ordinary day.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#mindsetshift",
+        "#success",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#love",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#life",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#wisdom",
+        "#editorialquotes",
+        "#modernwisdom",
+        "#positivity",
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#growth",
+        "#mindfulwriting",
+        "#lifeinwords"
+      ],
+      "image": "output/2026-10-13-morning-38395042017-1.png",
+      "video": "output/2026-10-13-morning-38395042017-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-10-13T12:08:02+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17961992828996816",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

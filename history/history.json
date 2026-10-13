@@ -705,6 +705,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-13",
+      "quote": {
+        "text": "The fantasy was financial freedom. The reality became buying things that made you look financially free, then working longer to keep up with the appearance.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#intentionalliving",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#mindsetshift",
+        "#success",
+        "#dailyreflection",
+        "#disciplineequalsfreedom",
+        "#love",
+        "#innerstillness",
+        "#meaningfullife",
+        "#life",
+        "#softstrength",
+        "#reflectivewriting",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#modernwisdom",
+        "#positivity",
+        "#quietwisdom",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-10-13-evening-38395417904-1.png",
+      "video": "output/2026-10-13-evening-38395417904-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-13T12:11:13+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18113144582329738",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

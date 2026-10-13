@@ -1,7 +1,7 @@
 # Glimpse Of Thoughts - brand-locked application settings
 # Paths are relative to the project root unless absolute.
 brand:
-  name: "Glimpse Of Thoughts"
+  name: "The Silent Journal"
   lock_mode: true
 
 image:

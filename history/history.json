@@ -940,6 +940,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-14",
+      "quote": {
+        "text": "Not every missed opportunity was a mistake. Some would have given you the life you wanted at the price of becoming someone you would not have liked.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#selfgrowthjourney",
+        "#inspiration",
+        "#quietwisdom",
+        "#intentionalliving",
+        "#motivation",
+        "#editorialquotes",
+        "#mindsetshift",
+        "#mindfulness",
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#success",
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#love",
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#life",
+        "#innerstillness",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-10-14-evening-38590951144-1.png",
+      "video": "output/2026-10-14-evening-38590951144-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-14T15:37:33+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18081225614390034",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

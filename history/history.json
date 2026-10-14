@@ -987,6 +987,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-15",
+      "quote": {
+        "text": "You may be more attached to being promising than to making something real. Potential receives generous applause; finished work has to survive an actual opinion.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#quotesdaily",
+        "#inspiration",
+        "#glimpseofthoughts",
+        "#lifeinwords",
+        "#motivation",
+        "#quietwisdom",
+        "#deepquotes",
+        "#mindfulness",
+        "#editorialquotes",
+        "#selfgrowthjourney",
+        "#success",
+        "#thoughtfulwords",
+        "#intentionalliving",
+        "#love",
+        "#mindfulwriting",
+        "#mindsetshift",
+        "#life",
+        "#dailyreflection",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-10-15-night-38628747651-1.png",
+      "video": "output/2026-10-15-night-38628747651-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-14T20:03:05+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18150163300480473",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

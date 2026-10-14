@@ -893,6 +893,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-14",
+      "quote": {
+        "text": "The most expensive part of proving people wrong is how long they get to remain at the center of decisions you call your own.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#meaningfullife",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#quietwisdom",
+        "#modernwisdom",
+        "#success",
+        "#editorialquotes",
+        "#quotesdaily",
+        "#love",
+        "#thoughtfulwords",
+        "#lifeinwords",
+        "#life",
+        "#mindfulwriting",
+        "#deepquotes",
+        "#wisdom",
+        "#dailyreflection",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-10-14-morning-38549615028-1.png",
+      "video": "output/2026-10-14-morning-38549615028-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-10-14T10:26:56+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18131662201782008",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -1034,6 +1034,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-15",
+      "quote": {
+        "text": "There are people who congratulate your progress only after checking that it has not passed theirs. You can feel the calculation in how quickly the subject changes.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#mindsetshift",
+        "#success",
+        "#editorialquotes",
+        "#disciplineequalsfreedom",
+        "#love",
+        "#thoughtfulwords",
+        "#meaningfullife",
+        "#life",
+        "#mindfulwriting",
+        "#reflectivewriting",
+        "#wisdom",
+        "#dailyreflection",
+        "#modernwisdom",
+        "#positivity",
+        "#innerstillness",
+        "#quotesdaily",
+        "#growth",
+        "#softstrength",
+        "#lifeinwords"
+      ],
+      "image": "output/2026-10-15-morning-38718416237-1.png",
+      "video": "output/2026-10-15-morning-38718416237-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-15T10:11:10+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17887602684687142",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

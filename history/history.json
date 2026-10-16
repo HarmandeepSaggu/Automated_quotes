@@ -1222,6 +1222,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-16",
+      "quote": {
+        "text": "An ambition borrowed from your parents can feel personal after enough years. Sometimes the first honest decision is admitting you never chose the finish line.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#positivity",
+        "#innerstillness",
+        "#modernwisdom",
+        "#growth",
+        "#softstrength",
+        "#quotesdaily",
+        "#quotes",
+        "#glimpseofthoughts",
+        "#lifeinwords",
+        "#inspiration",
+        "#quietwisdom",
+        "#deepquotes",
+        "#motivation",
+        "#editorialquotes",
+        "#selfgrowthjourney",
+        "#mindfulness",
+        "#thoughtfulwords",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-10-16-evening-38920933851-1.png",
+      "video": "output/2026-10-16-evening-38920933851-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-16T15:04:36+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18131518219802528",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -1269,6 +1269,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-17",
+      "quote": {
+        "text": "The applause usually reaches the visible milestone. It rarely reaches the boring decision that kept the whole thing from falling apart six months earlier.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#disciplineequalsfreedom",
+        "#wisdom",
+        "#editorialquotes",
+        "#meaningfullife",
+        "#positivity",
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#growth",
+        "#mindfulwriting",
+        "#modernwisdom",
+        "#quotes",
+        "#dailyreflection",
+        "#quotesdaily",
+        "#inspiration",
+        "#innerstillness",
+        "#lifeinwords",
+        "#motivation",
+        "#softstrength",
+        "#deepquotes"
+      ],
+      "image": "output/2026-10-17-night-38954878996-1.png",
+      "video": "output/2026-10-17-night-38954878996-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-16T19:26:14+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17943052152094293",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

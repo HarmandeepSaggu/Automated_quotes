@@ -1316,6 +1316,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-17",
+      "quote": {
+        "text": "A person can be serious about their future and still want an evening that does not need to justify itself by making tomorrow more productive.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#motivation",
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#success",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#love",
+        "#innerstillness",
+        "#deepquotes",
+        "#life",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-10-17-morning-39021705738-1.png",
+      "video": "output/2026-10-17-morning-39021705738-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-10-17T09:35:33+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17969988056962469",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

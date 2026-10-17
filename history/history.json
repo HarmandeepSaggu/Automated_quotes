@@ -1363,6 +1363,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-17",
+      "quote": {
+        "text": "You keep calling it a temporary sacrifice. But the years you spend waiting to live are still years of your life, not a separate account.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#growth",
+        "#mindfulwriting",
+        "#modernwisdom",
+        "#quotes",
+        "#dailyreflection",
+        "#quotesdaily",
+        "#inspiration",
+        "#innerstillness",
+        "#lifeinwords",
+        "#motivation",
+        "#softstrength",
+        "#deepquotes",
+        "#mindfulness",
+        "#glimpseofthoughts",
+        "#selfgrowthjourney",
+        "#success",
+        "#quietwisdom",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-10-17-evening-39038830019-1.png",
+      "video": "output/2026-10-17-evening-39038830019-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-10-17T13:59:41+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18419132278152487",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

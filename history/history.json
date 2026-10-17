@@ -1457,6 +1457,53 @@
         }
       ],
       "status": "posting_failed"
+    },
+    {
+      "date": "2026-10-18",
+      "quote": {
+        "text": "The salary you once dreamed about can become the reason you cannot leave. Comfort is complicated when it starts charging you in choices instead of money.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#dailyreflection",
+        "#modernwisdom",
+        "#success",
+        "#innerstillness",
+        "#quotesdaily",
+        "#love",
+        "#softstrength",
+        "#lifeinwords",
+        "#life",
+        "#glimpseofthoughts",
+        "#deepquotes",
+        "#wisdom",
+        "#quietwisdom",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#editorialquotes",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-10-18-night-39071398111-1.png",
+      "video": "output/2026-10-18-night-39071398111-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-17T21:33:02+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18081260528765471",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

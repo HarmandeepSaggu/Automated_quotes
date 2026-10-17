@@ -1410,6 +1410,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-17",
+      "quote": {
+        "text": "Winning an argument about your potential is not the same as doing the work. Sometimes explaining what you could become uses up the energy needed to become it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#intentionalliving",
+        "#growth",
+        "#glimpseofthoughts",
+        "#mindsetshift",
+        "#quotes",
+        "#quietwisdom",
+        "#disciplineequalsfreedom",
+        "#inspiration",
+        "#editorialquotes",
+        "#meaningfullife",
+        "#motivation",
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#modernwisdom",
+        "#success",
+        "#dailyreflection",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-10-17-night-39057388491-1.png",
+      "video": "output/2026-10-17-night-39057388491-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-17T18:16:56+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": false,
+          "message": "Instagram Reel processing failed: unknown error",
+          "external_id": null,
+          "details": {}
+        }
+      ],
+      "status": "posting_failed"
     }
   ]
 }

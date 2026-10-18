@@ -1504,6 +1504,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-18",
+      "quote": {
+        "text": "You can admire someone's discipline without wanting their life. The internet makes that distinction difficult by turning every visible result into an instruction for everyone watching.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#disciplineequalsfreedom",
+        "#love",
+        "#quietwisdom",
+        "#meaningfullife",
+        "#life",
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#wisdom",
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#positivity",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#growth",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#quotes",
+        "#innerstillness",
+        "#deepquotes"
+      ],
+      "image": "output/2026-10-18-morning-39116706388-1.png",
+      "video": "output/2026-10-18-morning-39116706388-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-18T09:47:27+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17923042809219952",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

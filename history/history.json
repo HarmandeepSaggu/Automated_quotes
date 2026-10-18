@@ -1551,6 +1551,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-18",
+      "quote": {
+        "text": "You thought being recognized would feel like being understood. Then people learned your name without learning anything about the parts of you that made the work difficult.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#lifeinwords",
+        "#positivity",
+        "#softstrength",
+        "#deepquotes",
+        "#growth",
+        "#glimpseofthoughts",
+        "#selfgrowthjourney",
+        "#quotes",
+        "#quietwisdom",
+        "#intentionalliving",
+        "#inspiration",
+        "#editorialquotes",
+        "#mindsetshift",
+        "#motivation",
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#meaningfullife"
+      ],
+      "image": "output/2026-10-18-evening-39134931251-1.png",
+      "video": "output/2026-10-18-evening-39134931251-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-18T14:12:25+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18108393929352725",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

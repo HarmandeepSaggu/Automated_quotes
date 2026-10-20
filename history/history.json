@@ -1880,6 +1880,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-21",
+      "quote": {
+        "text": "Sometimes a deadline is easier than a decision. You wait until there is only one option left, then call the result necessary instead of admitting you were afraid to choose.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#lifeinwords",
+        "#growth",
+        "#dailyreflection",
+        "#deepquotes",
+        "#quotes",
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#inspiration",
+        "#softstrength",
+        "#intentionalliving",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#mindsetshift",
+        "#mindfulness",
+        "#quietwisdom",
+        "#disciplineequalsfreedom",
+        "#success",
+        "#editorialquotes",
+        "#meaningfullife"
+      ],
+      "image": "output/2026-10-21-night-39487360755-1.png",
+      "video": "output/2026-10-21-night-39487360755-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-10-20T19:54:09+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18073019747766818",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

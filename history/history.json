@@ -1786,6 +1786,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-20",
+      "quote": {
+        "text": "You can spend years becoming qualified for a room where you do not feel welcome. Getting inside may reveal that the room was never worth that much of you.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#lifeinwords",
+        "#motivation",
+        "#editorialquotes",
+        "#deepquotes",
+        "#mindfulness",
+        "#thoughtfulwords",
+        "#selfgrowthjourney",
+        "#success",
+        "#mindfulwriting",
+        "#intentionalliving",
+        "#love",
+        "#dailyreflection",
+        "#mindsetshift",
+        "#life",
+        "#innerstillness",
+        "#disciplineequalsfreedom",
+        "#wisdom",
+        "#softstrength",
+        "#meaningfullife"
+      ],
+      "image": "output/2026-10-20-morning-39406871521-1.png",
+      "video": "output/2026-10-20-morning-39406871521-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-20T10:17:34+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18064705745716622",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

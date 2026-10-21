@@ -1974,6 +1974,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-21",
+      "quote": {
+        "text": "People call you driven, but they do not see the guilt that arrives whenever you sit down without a task waiting in your hands.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#love",
+        "#mindfulwriting",
+        "#modernwisdom",
+        "#life",
+        "#dailyreflection",
+        "#quotesdaily",
+        "#wisdom",
+        "#innerstillness",
+        "#lifeinwords",
+        "#positivity",
+        "#softstrength",
+        "#deepquotes",
+        "#growth",
+        "#glimpseofthoughts",
+        "#selfgrowthjourney",
+        "#quotes",
+        "#quietwisdom",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-10-21-evening-39628366465-1.png",
+      "video": "output/2026-10-21-evening-39628366465-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-21T15:44:20+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18127884197307883",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

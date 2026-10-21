@@ -2021,6 +2021,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-22",
+      "quote": {
+        "text": "The version of success you can explain to strangers is not always the version that makes you want to wake up and live your actual Tuesday.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#selfgrowthjourney",
+        "#wisdom",
+        "#dailyreflection",
+        "#intentionalliving",
+        "#positivity",
+        "#innerstillness",
+        "#mindsetshift",
+        "#growth",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#quotes",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#inspiration",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#motivation",
+        "#editorialquotes",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-10-22-night-39666206343-1.png",
+      "video": "output/2026-10-22-night-39666206343-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-21T19:58:29+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18229416574326448",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

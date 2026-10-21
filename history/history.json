@@ -1927,6 +1927,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-21",
+      "quote": {
+        "text": "You are not required to turn every disappointment into a future success story. Some experiences can remain unfair without being made useful enough to deserve your feelings.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#deepquotes",
+        "#love",
+        "#glimpseofthoughts",
+        "#selfgrowthjourney",
+        "#life",
+        "#quietwisdom",
+        "#intentionalliving",
+        "#wisdom",
+        "#editorialquotes",
+        "#mindsetshift",
+        "#positivity",
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#growth",
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#quotes",
+        "#dailyreflection",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-10-21-morning-39584661376-1.png",
+      "video": "output/2026-10-21-morning-39584661376-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-21T10:27:13+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17933939283408943",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

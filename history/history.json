@@ -2115,6 +2115,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-22",
+      "quote": {
+        "text": "Some of your ambition is grief for opportunities you never had. That deserves more care than treating every tired day as a failure of character.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#modernwisdom",
+        "#success",
+        "#quietwisdom",
+        "#quotesdaily",
+        "#love",
+        "#editorialquotes",
+        "#lifeinwords",
+        "#life",
+        "#thoughtfulwords",
+        "#deepquotes",
+        "#wisdom",
+        "#mindfulwriting",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#dailyreflection",
+        "#intentionalliving",
+        "#growth",
+        "#innerstillness",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-10-22-evening-39807468454-1.png",
+      "video": "output/2026-10-22-evening-39807468454-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-10-22T15:43:26+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17976203844158886",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -2068,6 +2068,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-22",
+      "quote": {
+        "text": "A bigger audience can make you less honest. You start hearing possible reactions before you finish a thought, and eventually mistake that editing process for your own voice.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#quotesdaily",
+        "#motivation",
+        "#thoughtfulwords",
+        "#lifeinwords",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#deepquotes",
+        "#success",
+        "#dailyreflection",
+        "#selfgrowthjourney",
+        "#love",
+        "#innerstillness",
+        "#intentionalliving",
+        "#life",
+        "#softstrength",
+        "#mindsetshift",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-10-22-morning-39763078453-1.png",
+      "video": "output/2026-10-22-morning-39763078453-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-10-22T10:26:25+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18394825411206112",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

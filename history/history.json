@@ -2162,6 +2162,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-23",
+      "quote": {
+        "text": "You can meet every requirement and still not be chosen. It hurts differently when there is nothing obvious to fix, only an outcome you cannot negotiate with.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#disciplineequalsfreedom",
+        "#success",
+        "#quietwisdom",
+        "#meaningfullife",
+        "#love",
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#life",
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#wisdom",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#positivity",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#growth",
+        "#innerstillness",
+        "#deepquotes"
+      ],
+      "image": "output/2026-10-23-night-39843465876-1.png",
+      "video": "output/2026-10-23-night-39843465876-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-22T19:49:51+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18139226158625387",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -2209,6 +2209,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-23",
+      "quote": {
+        "text": "The achievement is real. So is the fact that it did not make you happy. You do not have to deny one to finally address the other.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#quotesdaily",
+        "#success",
+        "#glimpseofthoughts",
+        "#lifeinwords",
+        "#love",
+        "#quietwisdom",
+        "#deepquotes",
+        "#life",
+        "#editorialquotes",
+        "#selfgrowthjourney",
+        "#wisdom",
+        "#thoughtfulwords",
+        "#intentionalliving",
+        "#positivity",
+        "#mindfulwriting",
+        "#mindsetshift",
+        "#growth",
+        "#dailyreflection",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-10-23-morning-39938720012-1.png",
+      "video": "output/2026-10-23-morning-39938720012-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-23T10:23:23+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18167450728471009",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

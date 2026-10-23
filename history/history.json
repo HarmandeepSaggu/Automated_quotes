@@ -2256,6 +2256,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-23",
+      "quote": {
+        "text": "If the only reward for finishing early is more work, you eventually learn to hide your capacity. Not every quiet employee has stopped caring about the job.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#meaningfullife",
+        "#inspiration",
+        "#softstrength",
+        "#reflectivewriting",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#modernwisdom",
+        "#mindfulness",
+        "#quietwisdom",
+        "#quotesdaily",
+        "#success",
+        "#editorialquotes",
+        "#lifeinwords",
+        "#love",
+        "#thoughtfulwords",
+        "#deepquotes",
+        "#life",
+        "#mindfulwriting",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-10-23-evening-39979048280-1.png",
+      "video": "output/2026-10-23-evening-39979048280-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-23T15:31:58+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18096454037393571",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

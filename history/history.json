@@ -2397,6 +2397,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-24",
+      "quote": {
+        "text": "An anxious mind can turn a quiet afternoon into an investigation of everything that might go wrong. By evening, you are exhausted from events that never happened.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#life",
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#wisdom",
+        "#innerstillness",
+        "#modernwisdom",
+        "#positivity",
+        "#softstrength",
+        "#quotesdaily",
+        "#growth",
+        "#glimpseofthoughts",
+        "#lifeinwords",
+        "#quotes",
+        "#quietwisdom",
+        "#deepquotes",
+        "#inspiration",
+        "#editorialquotes",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-10-24-evening-40101280078-1.png",
+      "video": "output/2026-10-24-evening-40101280078-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-24T14:10:11+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18132566566776645",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

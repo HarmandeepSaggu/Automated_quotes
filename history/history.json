@@ -2444,6 +2444,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-25",
+      "quote": {
+        "text": "Sometimes you call it intuition because fear sounds less convincing. The feeling may be real without being an accurate report of what is happening around you.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#mindsetshift",
+        "#quotes",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#inspiration",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#motivation",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#editorialquotes",
+        "#modernwisdom",
+        "#success",
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#love",
+        "#mindfulwriting",
+        "#lifeinwords"
+      ],
+      "image": "output/2026-10-25-night-40121633918-1.png",
+      "video": "output/2026-10-25-night-40121633918-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-24T18:38:47+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18127665751808215",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -2491,6 +2491,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-25",
+      "quote": {
+        "text": "You do not need to understand every mood before you are allowed to continue your day. Some feelings become larger because you keep giving them the entire room.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#mindsetshift",
+        "#wisdom",
+        "#innerstillness",
+        "#disciplineequalsfreedom",
+        "#positivity",
+        "#softstrength",
+        "#meaningfullife",
+        "#growth",
+        "#glimpseofthoughts",
+        "#reflectivewriting",
+        "#quotes",
+        "#quietwisdom",
+        "#modernwisdom",
+        "#inspiration",
+        "#editorialquotes",
+        "#quotesdaily",
+        "#motivation",
+        "#thoughtfulwords",
+        "#lifeinwords"
+      ],
+      "image": "output/2026-10-25-morning-40182908242-1.png",
+      "video": "output/2026-10-25-morning-40182908242-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-25T09:59:42+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17948990115346148",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

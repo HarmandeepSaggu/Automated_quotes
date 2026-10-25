@@ -2585,6 +2585,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-26",
+      "quote": {
+        "text": "You keep searching for the perfect explanation because accepting the simple one would hurt. Confusion can feel safer than admitting you already have enough information to leave.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#modernwisdom",
+        "#success",
+        "#glimpseofthoughts",
+        "#quotesdaily",
+        "#love",
+        "#quietwisdom",
+        "#lifeinwords",
+        "#life",
+        "#editorialquotes",
+        "#deepquotes",
+        "#wisdom",
+        "#thoughtfulwords",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#mindfulwriting",
+        "#intentionalliving",
+        "#growth",
+        "#dailyreflection",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-10-26-night-40222919768-1.png",
+      "video": "output/2026-10-26-night-40222919768-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-10-25T18:47:43+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17999054646043147",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

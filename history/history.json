@@ -2632,6 +2632,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-26",
+      "quote": {
+        "text": "A mind trained to notice problems can struggle to recognize an ordinary good day. When nothing is wrong, it begins checking whether it has missed something.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#selfgrowthjourney",
+        "#life",
+        "#thoughtfulwords",
+        "#intentionalliving",
+        "#wisdom",
+        "#mindfulwriting",
+        "#mindsetshift",
+        "#positivity",
+        "#dailyreflection",
+        "#disciplineequalsfreedom",
+        "#growth",
+        "#innerstillness",
+        "#meaningfullife",
+        "#quotes",
+        "#softstrength",
+        "#reflectivewriting",
+        "#inspiration",
+        "#glimpseofthoughts",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-10-26-morning-40314666090-1.png",
+      "video": "output/2026-10-26-morning-40314666090-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-26T11:23:21+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18385867270236693",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

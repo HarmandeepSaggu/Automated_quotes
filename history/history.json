@@ -2679,6 +2679,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-26",
+      "quote": {
+        "text": "You cannot rehearse your way into never feeling embarrassed. Some confidence only arrives after an awkward moment proves less permanent than you expected it to be.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#deepquotes",
+        "#success",
+        "#quietwisdom",
+        "#selfgrowthjourney",
+        "#love",
+        "#editorialquotes",
+        "#intentionalliving",
+        "#life",
+        "#thoughtfulwords",
+        "#mindsetshift",
+        "#wisdom",
+        "#mindfulwriting",
+        "#disciplineequalsfreedom",
+        "#positivity",
+        "#dailyreflection",
+        "#meaningfullife",
+        "#growth",
+        "#innerstillness",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-10-26-evening-40364975823-1.png",
+      "video": "output/2026-10-26-evening-40364975823-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-26T17:03:24+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18198319747388166",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

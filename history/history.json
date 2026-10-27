@@ -2820,6 +2820,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-27",
+      "quote": {
+        "text": "Sometimes you are not looking for advice. You are looking for someone to take responsibility for a choice you already know you want to make.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#quietwisdom",
+        "#intentionalliving",
+        "#growth",
+        "#editorialquotes",
+        "#mindsetshift",
+        "#quotes",
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#inspiration",
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#motivation",
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#innerstillness",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-10-27-evening-40537566962-1.png",
+      "video": "output/2026-10-27-evening-40537566962-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-10-27T16:06:20+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17941190985401590",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -2867,6 +2867,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-28",
+      "quote": {
+        "text": "You can understand why a thought appears without agreeing to follow it. Familiar worries often sound authoritative simply because they have been speaking the longest in your head.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#selfgrowthjourney",
+        "#life",
+        "#dailyreflection",
+        "#intentionalliving",
+        "#wisdom",
+        "#innerstillness",
+        "#mindsetshift",
+        "#positivity",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#growth",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#quotes",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#inspiration",
+        "#editorialquotes",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-10-28-night-40578519203-1.png",
+      "video": "output/2026-10-28-night-40578519203-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-27T20:29:51+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18162423685500377",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

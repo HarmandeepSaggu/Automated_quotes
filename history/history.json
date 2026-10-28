@@ -3008,6 +3008,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-29",
+      "quote": {
+        "text": "Overexplaining can be a quiet attempt to prevent every possible misunderstanding. It is exhausting to speak as though you are responsible for both sides of a conversation.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#inspiration",
+        "#mindfulwriting",
+        "#lifeinwords",
+        "#motivation",
+        "#dailyreflection",
+        "#deepquotes",
+        "#mindfulness",
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#success",
+        "#softstrength",
+        "#intentionalliving",
+        "#love",
+        "#glimpseofthoughts",
+        "#mindsetshift",
+        "#life",
+        "#quietwisdom",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-10-29-night-40766920019-1.png",
+      "video": "output/2026-10-29-night-40766920019-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-10-28T20:51:18+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18171212620461958",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

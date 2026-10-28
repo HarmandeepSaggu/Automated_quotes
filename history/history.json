@@ -2914,6 +2914,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-28",
+      "quote": {
+        "text": "Being prepared for rejection is different from rejecting yourself in advance. One helps you survive an answer; the other makes sure you never have to hear it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#meaningfullife",
+        "#success",
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#love",
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#life",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#wisdom",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#positivity",
+        "#innerstillness",
+        "#deepquotes",
+        "#growth",
+        "#softstrength",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-10-28-morning-40680371034-1.png",
+      "video": "output/2026-10-28-morning-40680371034-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-28T11:29:48+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18015864404756285",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

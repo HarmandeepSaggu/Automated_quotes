@@ -2961,6 +2961,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-28",
+      "quote": {
+        "text": "You check whether everyone is comfortable before noticing you are not. After a while, your own discomfort starts feeling like an interruption instead of useful information.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#reflectivewriting",
+        "#quotes",
+        "#glimpseofthoughts",
+        "#modernwisdom",
+        "#inspiration",
+        "#quietwisdom",
+        "#quotesdaily",
+        "#motivation",
+        "#editorialquotes",
+        "#lifeinwords",
+        "#mindfulness",
+        "#thoughtfulwords",
+        "#deepquotes",
+        "#success",
+        "#mindfulwriting",
+        "#selfgrowthjourney",
+        "#love",
+        "#dailyreflection",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-10-28-evening-40730303474-1.png",
+      "video": "output/2026-10-28-evening-40730303474-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-28T16:53:11+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18339403168278025",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

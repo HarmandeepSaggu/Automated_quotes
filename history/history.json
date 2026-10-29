@@ -3055,6 +3055,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-29",
+      "quote": {
+        "text": "Not every thought needs a conclusion tonight. Some questions become less urgent after food, sleep, and a day that is not being judged from its worst hour.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#deepquotes",
+        "#mindfulness",
+        "#quietwisdom",
+        "#selfgrowthjourney",
+        "#success",
+        "#editorialquotes",
+        "#intentionalliving",
+        "#love",
+        "#thoughtfulwords",
+        "#mindsetshift",
+        "#life",
+        "#mindfulwriting",
+        "#disciplineequalsfreedom",
+        "#wisdom",
+        "#dailyreflection",
+        "#meaningfullife",
+        "#positivity",
+        "#innerstillness",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-10-29-morning-40867115926-1.png",
+      "video": "output/2026-10-29-morning-40867115926-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-10-29T11:40:03+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18376960750210812",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

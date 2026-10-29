@@ -3149,6 +3149,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-30",
+      "quote": {
+        "text": "Sometimes the problem is not indecision. It is refusing to accept that a good choice can still cost something, and that missing the alternative does not make you wrong.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#softstrength",
+        "#intentionalliving",
+        "#growth",
+        "#glimpseofthoughts",
+        "#mindsetshift",
+        "#quotes",
+        "#quietwisdom",
+        "#disciplineequalsfreedom",
+        "#inspiration",
+        "#editorialquotes",
+        "#meaningfullife",
+        "#motivation",
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-10-30-night-40953364644-1.png",
+      "video": "output/2026-10-30-night-40953364644-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-10-29T20:56:09+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17903505801378093",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

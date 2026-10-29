@@ -3102,6 +3102,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-29",
+      "quote": {
+        "text": "You keep asking whether you are behind, but never ask who chose the schedule. An undefined deadline can make every ordinary year feel like a late arrival.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#meaningfullife",
+        "#growth",
+        "#glimpseofthoughts",
+        "#reflectivewriting",
+        "#quotes",
+        "#quietwisdom",
+        "#modernwisdom",
+        "#inspiration",
+        "#editorialquotes",
+        "#quotesdaily",
+        "#motivation",
+        "#thoughtfulwords",
+        "#lifeinwords",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#deepquotes",
+        "#success",
+        "#dailyreflection",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-10-29-evening-40918887995-1.png",
+      "video": "output/2026-10-29-evening-40918887995-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-29T17:11:28+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17996008286841111",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

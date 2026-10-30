@@ -3243,6 +3243,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-30",
+      "quote": {
+        "text": "The need to be certain can make you loyal to an unhappy situation. At least you know its disappointments. A better possibility asks you to tolerate not knowing yet.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#success",
+        "#softstrength",
+        "#intentionalliving",
+        "#love",
+        "#glimpseofthoughts",
+        "#mindsetshift",
+        "#life",
+        "#quietwisdom",
+        "#disciplineequalsfreedom",
+        "#wisdom",
+        "#editorialquotes",
+        "#meaningfullife",
+        "#positivity",
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#growth",
+        "#mindfulwriting",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-10-30-evening-41093692500-1.png",
+      "video": "output/2026-10-30-evening-41093692500-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-10-30T16:52:02+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17909311137596060",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

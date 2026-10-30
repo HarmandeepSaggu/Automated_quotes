@@ -3196,6 +3196,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-10-30",
+      "quote": {
+        "text": "You have imagined disappointing people so often that their real approval barely reaches you. It is difficult to feel accepted while still defending yourself against an argument nobody started.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#meaningfullife",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#quietwisdom",
+        "#modernwisdom",
+        "#success",
+        "#editorialquotes",
+        "#quotesdaily",
+        "#love",
+        "#thoughtfulwords",
+        "#lifeinwords",
+        "#life",
+        "#mindfulwriting",
+        "#deepquotes",
+        "#wisdom",
+        "#dailyreflection",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-10-30-morning-41048654058-1.png",
+      "video": "output/2026-10-30-morning-41048654058-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-10-30T11:31:26+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18113075075521216",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

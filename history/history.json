@@ -3346,6 +3346,53 @@
         "source": "local"
       },
       "status": "reserved"
+    },
+    {
+      "date": "2026-10-31",
+      "quote": {
+        "text": "You can spend so long deciding how you want to be seen that you stop noticing how you actually feel when nobody is looking at you.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#selfgrowthjourney",
+        "#success",
+        "#thoughtfulwords",
+        "#intentionalliving",
+        "#love",
+        "#mindfulwriting",
+        "#mindsetshift",
+        "#life",
+        "#dailyreflection",
+        "#disciplineequalsfreedom",
+        "#wisdom",
+        "#innerstillness",
+        "#meaningfullife",
+        "#positivity",
+        "#softstrength",
+        "#reflectivewriting",
+        "#growth",
+        "#glimpseofthoughts",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-10-31-evening-41217084714-1.png",
+      "video": "output/2026-10-31-evening-41217084714-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-10-31T15:54:48+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18120445861954561",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

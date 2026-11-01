@@ -3534,6 +3534,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-02",
+      "quote": {
+        "text": "Some people look relaxed because they are not translating every facial expression into a verdict about themselves. That is a freedom you cannot see in a photograph.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#wisdom",
+        "#editorialquotes",
+        "#modernwisdom",
+        "#positivity",
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#growth",
+        "#mindfulwriting",
+        "#lifeinwords",
+        "#quotes",
+        "#dailyreflection",
+        "#deepquotes",
+        "#inspiration",
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#motivation",
+        "#softstrength",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-02-night-41346297475-1.png",
+      "video": "output/2026-11-02-night-41346297475-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-01T20:20:10+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18356959441168610",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

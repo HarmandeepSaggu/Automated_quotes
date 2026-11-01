@@ -3440,6 +3440,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-01",
+      "quote": {
+        "text": "There is a difference between reflection and putting yourself on trial. One leaves room to learn; the other keeps demanding a confession for the fact that you are human.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#positivity",
+        "#editorialquotes",
+        "#modernwisdom",
+        "#growth",
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#quotes",
+        "#mindfulwriting",
+        "#lifeinwords",
+        "#inspiration",
+        "#dailyreflection",
+        "#deepquotes",
+        "#motivation",
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#mindfulness",
+        "#softstrength",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-01-morning-41304130870-1.png",
+      "video": "output/2026-11-01-morning-41304130870-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-01T11:57:04+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18130506454641329",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

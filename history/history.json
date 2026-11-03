@@ -3816,6 +3816,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-04",
+      "quote": {
+        "text": "You are allowed to change your mind without producing a dramatic reason. Quiet information counts too: the dread before agreeing, the relief when a plan gets cancelled.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#mindsetshift",
+        "#mindfulness",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#success",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#love",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#life",
+        "#editorialquotes",
+        "#modernwisdom",
+        "#wisdom",
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#positivity",
+        "#mindfulwriting",
+        "#lifeinwords"
+      ],
+      "image": "output/2026-11-04-night-41723212484-1.png",
+      "video": "output/2026-11-04-night-41723212484-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-03T21:36:05+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18100906391417790",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

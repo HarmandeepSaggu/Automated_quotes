@@ -3769,6 +3769,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-03",
+      "quote": {
+        "text": "When you expect criticism, even a neutral comment can arrive wearing it. You may be responding to the tone you remember rather than the person speaking now.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#modernwisdom",
+        "#quotes",
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#inspiration",
+        "#mindfulwriting",
+        "#lifeinwords",
+        "#motivation",
+        "#dailyreflection",
+        "#deepquotes",
+        "#mindfulness",
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#success",
+        "#softstrength",
+        "#intentionalliving",
+        "#love",
+        "#glimpseofthoughts",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-11-03-evening-41691086455-1.png",
+      "video": "output/2026-11-03-evening-41691086455-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-03T18:10:00+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18119218360791224",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -3957,6 +3957,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-05",
+      "quote": {
+        "text": "There is an exhaustion that comes from supervising your own personality. Checking how you laugh, speak, sit, and pause leaves very little attention for the life happening in front of you.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#success",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#love",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#life",
+        "#innerstillness",
+        "#deepquotes",
+        "#wisdom",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#glimpseofthoughts",
+        "#intentionalliving",
+        "#growth",
+        "#quietwisdom",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-11-05-night-41918961098-1.png",
+      "video": "output/2026-11-05-night-41918961098-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-04T21:45:12+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18135942388708806",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

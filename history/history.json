@@ -3910,6 +3910,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-04",
+      "quote": {
+        "text": "You keep revisiting the past as though there is a sentence you missed that would have changed the ending. Sometimes everyone said enough; they simply wanted different things.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#selfgrowthjourney",
+        "#love",
+        "#mindfulwriting",
+        "#intentionalliving",
+        "#life",
+        "#dailyreflection",
+        "#mindsetshift",
+        "#wisdom",
+        "#innerstillness",
+        "#disciplineequalsfreedom",
+        "#positivity",
+        "#softstrength",
+        "#meaningfullife",
+        "#growth",
+        "#glimpseofthoughts",
+        "#reflectivewriting",
+        "#quotes",
+        "#quietwisdom",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-11-04-evening-41886098567-1.png",
+      "video": "output/2026-11-04-evening-41886098567-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-04T18:20:17+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18018705590747232",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

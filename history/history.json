@@ -3863,6 +3863,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-04",
+      "quote": {
+        "text": "Being able to explain every side can make it difficult to choose your own. Understanding why someone acts that way does not tell you how much of it you should accept.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#mindsetshift",
+        "#growth",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#quotes",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#inspiration",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#motivation",
+        "#editorialquotes",
+        "#modernwisdom",
+        "#mindfulness",
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#success",
+        "#mindfulwriting",
+        "#lifeinwords"
+      ],
+      "image": "output/2026-11-04-morning-41835727647-1.png",
+      "video": "output/2026-11-04-morning-41835727647-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-04T13:10:54+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18155936599522367",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

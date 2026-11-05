@@ -4098,6 +4098,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-06",
+      "quote": {
+        "text": "You do not need to find a lesson before admitting you were hurt. Making sense of something and being ready to speak about it rarely happen at the same speed.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#deepquotes",
+        "#success",
+        "#dailyreflection",
+        "#selfgrowthjourney",
+        "#love",
+        "#innerstillness",
+        "#intentionalliving",
+        "#life",
+        "#softstrength",
+        "#mindsetshift",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#disciplineequalsfreedom",
+        "#positivity",
+        "#quietwisdom",
+        "#meaningfullife",
+        "#growth",
+        "#editorialquotes",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-11-06-night-42116033964-1.png",
+      "video": "output/2026-11-06-night-42116033964-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-05T21:49:12+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17903037246606863",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

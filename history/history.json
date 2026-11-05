@@ -4004,6 +4004,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-05",
+      "quote": {
+        "text": "You can be grateful for what you have and still be affected by what happened. Gratitude is not a rule that requires every other feeling to leave the room.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#intentionalliving",
+        "#success",
+        "#editorialquotes",
+        "#mindsetshift",
+        "#love",
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#life",
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#wisdom",
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#positivity",
+        "#innerstillness",
+        "#modernwisdom",
+        "#growth",
+        "#softstrength",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-11-05-morning-42035550603-1.png",
+      "video": "output/2026-11-05-morning-42035550603-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-05T13:25:07+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18110001959248498",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

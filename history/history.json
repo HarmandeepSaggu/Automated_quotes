@@ -4051,6 +4051,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-05",
+      "quote": {
+        "text": "One bad day can borrow the voice of your whole life. It starts describing everything as hopeless. Notice how confidently exhaustion speaks about a future it has not seen.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#lifeinwords",
+        "#quotes",
+        "#innerstillness",
+        "#deepquotes",
+        "#inspiration",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#intentionalliving",
+        "#mindfulness",
+        "#quietwisdom",
+        "#mindsetshift",
+        "#success",
+        "#editorialquotes",
+        "#disciplineequalsfreedom",
+        "#love",
+        "#thoughtfulwords",
+        "#meaningfullife"
+      ],
+      "image": "output/2026-11-05-evening-42083728446-1.png",
+      "video": "output/2026-11-05-evening-42083728446-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-05T18:23:30+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18647062537018096",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

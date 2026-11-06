@@ -4239,6 +4239,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-07",
+      "quote": {
+        "text": "You can make a careful choice and still feel nervous afterward. Anxiety is not a receipt proving that you bought the wrong life with the information you had.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#deepquotes",
+        "#success",
+        "#quietwisdom",
+        "#selfgrowthjourney",
+        "#love",
+        "#editorialquotes",
+        "#intentionalliving",
+        "#life",
+        "#thoughtfulwords",
+        "#mindsetshift",
+        "#wisdom",
+        "#mindfulwriting",
+        "#disciplineequalsfreedom",
+        "#positivity",
+        "#dailyreflection",
+        "#meaningfullife",
+        "#growth",
+        "#innerstillness",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-11-07-night-42296140384-1.png",
+      "video": "output/2026-11-07-night-42296140384-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-06T21:22:19+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18019942052953391",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

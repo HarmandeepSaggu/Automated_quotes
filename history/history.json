@@ -4145,6 +4145,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-06",
+      "quote": {
+        "text": "Sometimes you ask too many people because one honest answer from yourself would require action. A crowd of opinions gives you somewhere to stay undecided a little longer.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#lifeinwords",
+        "#inspiration",
+        "#thoughtfulwords",
+        "#deepquotes",
+        "#motivation",
+        "#mindfulwriting",
+        "#selfgrowthjourney",
+        "#mindfulness",
+        "#dailyreflection",
+        "#intentionalliving",
+        "#success",
+        "#innerstillness",
+        "#mindsetshift",
+        "#love",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#life",
+        "#glimpseofthoughts",
+        "#meaningfullife"
+      ],
+      "image": "output/2026-11-06-morning-42223032534-1.png",
+      "video": "output/2026-11-06-morning-42223032534-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-06T13:08:15+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18098177081674905",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -4192,6 +4192,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-06",
+      "quote": {
+        "text": "Anticipating every possible reaction can make a simple request feel selfish. You start carrying the disappointment before anyone has expressed it, and call that being considerate.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#positivity",
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#growth",
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#quotes",
+        "#innerstillness",
+        "#modernwisdom",
+        "#inspiration",
+        "#softstrength",
+        "#quotesdaily",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#lifeinwords",
+        "#mindfulness",
+        "#quietwisdom",
+        "#deepquotes"
+      ],
+      "image": "output/2026-11-06-evening-42264349304-1.png",
+      "video": "output/2026-11-06-evening-42264349304-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-06T17:44:26+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18036261827671541",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

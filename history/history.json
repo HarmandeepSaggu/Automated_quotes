@@ -4333,6 +4333,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-07",
+      "quote": {
+        "text": "You wait for a moment when your mind finally gives you permission to relax. But a mind that keeps looking for danger may need practice stopping, not one more answer.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#lifeinwords",
+        "#motivation",
+        "#editorialquotes",
+        "#deepquotes",
+        "#mindfulness",
+        "#thoughtfulwords",
+        "#selfgrowthjourney",
+        "#success",
+        "#mindfulwriting",
+        "#intentionalliving",
+        "#love",
+        "#dailyreflection",
+        "#mindsetshift",
+        "#life",
+        "#innerstillness",
+        "#disciplineequalsfreedom",
+        "#wisdom",
+        "#softstrength",
+        "#meaningfullife"
+      ],
+      "image": "output/2026-11-07-evening-42392470064-1.png",
+      "video": "output/2026-11-07-evening-42392470064-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-07T16:40:40+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17964130031996944",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

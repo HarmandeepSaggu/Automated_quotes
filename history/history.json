@@ -4286,6 +4286,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-07",
+      "quote": {
+        "text": "The thought that keeps returning is not necessarily the most important one. Sometimes it is simply unfinished, and your attention keeps mistaking repetition for a reason to believe it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#intentionalliving",
+        "#wisdom",
+        "#innerstillness",
+        "#mindsetshift",
+        "#positivity",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#growth",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#quotes",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#inspiration",
+        "#editorialquotes",
+        "#modernwisdom",
+        "#motivation",
+        "#thoughtfulwords",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-11-07-morning-42369945164-1.png",
+      "video": "output/2026-11-07-morning-42369945164-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-07T11:51:47+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18117102290026001",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

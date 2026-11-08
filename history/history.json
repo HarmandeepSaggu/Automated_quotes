@@ -4427,6 +4427,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-08",
+      "quote": {
+        "text": "Some self-awareness becomes another way to be cruel. You learn the names of your patterns and use them as accusations instead of information about where you need more care.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#intentionalliving",
+        "#success",
+        "#dailyreflection",
+        "#mindsetshift",
+        "#love",
+        "#innerstillness",
+        "#disciplineequalsfreedom",
+        "#life",
+        "#softstrength",
+        "#meaningfullife",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#reflectivewriting",
+        "#positivity",
+        "#quietwisdom",
+        "#modernwisdom",
+        "#growth",
+        "#editorialquotes",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-11-08-morning-42478573684-1.png",
+      "video": "output/2026-11-08-morning-42478573684-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-08T12:05:13+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18110063000350814",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

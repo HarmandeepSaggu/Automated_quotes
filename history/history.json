@@ -4568,6 +4568,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-09",
+      "quote": {
+        "text": "Sometimes the smallest choice feels impossible because you have spent the day making yourself acceptable to everyone else. There is very little energy left to discover what you actually want.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#quotesdaily",
+        "#love",
+        "#innerstillness",
+        "#lifeinwords",
+        "#life",
+        "#softstrength",
+        "#deepquotes",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#quietwisdom",
+        "#intentionalliving",
+        "#growth",
+        "#editorialquotes",
+        "#mindsetshift",
+        "#quotes",
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-11-09-morning-42632114858-1.png",
+      "video": "output/2026-11-09-morning-42632114858-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-09T14:10:56+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18019948805977208",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

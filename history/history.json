@@ -4615,6 +4615,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-10",
+      "quote": {
+        "text": "You do not have to turn uncertainty into an emergency to take it seriously. Some unanswered things can sit beside you while you eat dinner and continue being a person.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#inspiration",
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#motivation",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#mindfulness",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#success",
+        "#innerstillness",
+        "#deepquotes",
+        "#love",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#life",
+        "#glimpseofthoughts",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-10-evening-42700146234-1.png",
+      "video": "output/2026-11-10-evening-42700146234-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-09T21:11:47+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17913713739484612",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

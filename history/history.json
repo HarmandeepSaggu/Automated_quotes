@@ -4803,6 +4803,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-11",
+      "quote": {
+        "text": "Some days you need discipline. Other days you need to stop using that word to argue with a body that has been asking for rest in every language it has.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#love",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#life",
+        "#innerstillness",
+        "#deepquotes",
+        "#wisdom",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#glimpseofthoughts",
+        "#intentionalliving",
+        "#growth",
+        "#quietwisdom",
+        "#mindsetshift",
+        "#quotes",
+        "#editorialquotes",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-11-11-night-42907514760-1.png",
+      "video": "output/2026-11-11-night-42907514760-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-10T21:41:59+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18358760194222233",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

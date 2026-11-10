@@ -4756,6 +4756,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-10",
+      "quote": {
+        "text": "You can spend more effort hiding the unfinished task than completing it would require. Avoidance has a workload too; it simply never gives you the relief of being done.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#love",
+        "#mindfulwriting",
+        "#modernwisdom",
+        "#life",
+        "#dailyreflection",
+        "#quotesdaily",
+        "#wisdom",
+        "#innerstillness",
+        "#lifeinwords",
+        "#positivity",
+        "#softstrength",
+        "#deepquotes",
+        "#growth",
+        "#glimpseofthoughts",
+        "#selfgrowthjourney",
+        "#quotes",
+        "#quietwisdom",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-10-evening-42874442148-1.png",
+      "video": "output/2026-11-10-evening-42874442148-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-10T18:22:08+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18026715821868407",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

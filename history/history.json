@@ -4709,6 +4709,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-10",
+      "quote": {
+        "text": "A routine feels different when it exists to punish you for yesterday. The same action can be care or cruelty, depending on what you say to yourself while doing it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#lifeinwords",
+        "#life",
+        "#editorialquotes",
+        "#deepquotes",
+        "#wisdom",
+        "#thoughtfulwords",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#mindfulwriting",
+        "#intentionalliving",
+        "#growth",
+        "#dailyreflection",
+        "#mindsetshift",
+        "#quotes",
+        "#innerstillness",
+        "#disciplineequalsfreedom",
+        "#inspiration",
+        "#softstrength",
+        "#meaningfullife"
+      ],
+      "image": "output/2026-11-10-morning-42826696123-1.png",
+      "video": "output/2026-11-10-morning-42826696123-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-10T13:40:50+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18284851474294829",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

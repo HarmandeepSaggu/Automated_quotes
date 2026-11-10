@@ -4662,6 +4662,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-10",
+      "quote": {
+        "text": "The habit did not disappear overnight. You stopped protecting the hour it lived in, and other people's requests slowly became the explanation for why you had no time.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#intentionalliving",
+        "#love",
+        "#editorialquotes",
+        "#mindsetshift",
+        "#life",
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#wisdom",
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#positivity",
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#growth",
+        "#innerstillness",
+        "#modernwisdom",
+        "#quotes",
+        "#softstrength",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-11-10-night-42724926753-1.png",
+      "video": "output/2026-11-10-night-42724926753-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-10T00:00:35+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18112484963156157",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

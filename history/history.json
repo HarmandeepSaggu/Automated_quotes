@@ -4897,6 +4897,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-11",
+      "quote": {
+        "text": "The plan looked manageable because it did not include interruptions, bad sleep, or being a person. A schedule can be beautifully organized and still be dishonest about your life.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#mindfulness",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#success",
+        "#innerstillness",
+        "#deepquotes",
+        "#love",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#life",
+        "#glimpseofthoughts",
+        "#intentionalliving",
+        "#wisdom",
+        "#quietwisdom",
+        "#mindsetshift",
+        "#positivity",
+        "#editorialquotes",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-11-11-evening-43075452812-1.png",
+      "video": "output/2026-11-11-evening-43075452812-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-11T18:12:11+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18108353216460097",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

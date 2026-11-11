@@ -4850,6 +4850,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-11",
+      "quote": {
+        "text": "You become less reliable to yourself when every promise is made by a version of you who imagines tomorrow will contain more time and fewer feelings.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#intentionalliving",
+        "#motivation",
+        "#quietwisdom",
+        "#mindsetshift",
+        "#mindfulness",
+        "#editorialquotes",
+        "#disciplineequalsfreedom",
+        "#success",
+        "#thoughtfulwords",
+        "#meaningfullife",
+        "#love",
+        "#mindfulwriting",
+        "#reflectivewriting",
+        "#life",
+        "#dailyreflection",
+        "#modernwisdom",
+        "#wisdom",
+        "#innerstillness",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-11-11-morning-43024108734-1.png",
+      "video": "output/2026-11-11-morning-43024108734-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-11T12:52:45+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17957049027036456",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

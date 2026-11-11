@@ -4944,6 +4944,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-12",
+      "quote": {
+        "text": "It is difficult to build consistency around a result you only want when you feel ashamed of yourself. Relief arrives, and takes the reason for starting with it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#meaningfullife",
+        "#motivation",
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#success",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#love",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#life",
+        "#innerstillness",
+        "#deepquotes",
+        "#wisdom",
+        "#softstrength",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-11-12-night-43112511910-1.png",
+      "video": "output/2026-11-12-night-43112511910-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-11T22:31:55+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17940961752399654",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -5047,6 +5047,53 @@
         "source": "local"
       },
       "status": "reserved"
+    },
+    {
+      "date": "2026-11-13",
+      "quote": {
+        "text": "The work becomes heavier when every session must prove your talent. It is hard to practice if making a mistake feels like losing the right to try.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#reflectivewriting",
+        "#motivation",
+        "#softstrength",
+        "#modernwisdom",
+        "#mindfulness",
+        "#glimpseofthoughts",
+        "#quotesdaily",
+        "#success",
+        "#quietwisdom",
+        "#lifeinwords",
+        "#love",
+        "#editorialquotes",
+        "#deepquotes",
+        "#life",
+        "#thoughtfulwords",
+        "#selfgrowthjourney",
+        "#wisdom",
+        "#mindfulwriting",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-13-night-43316945360-1.png",
+      "video": "output/2026-11-13-night-43316945360-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-12T22:07:49+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18117300230117269",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

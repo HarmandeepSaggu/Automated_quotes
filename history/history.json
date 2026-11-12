@@ -4991,6 +4991,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-12",
+      "quote": {
+        "text": "Distraction is sometimes a negotiation with discomfort. You are not interested in the screen; you are interested in delaying what you feel when the screen is gone.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#disciplineequalsfreedom",
+        "#inspiration",
+        "#quietwisdom",
+        "#meaningfullife",
+        "#motivation",
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#success",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#love",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#life",
+        "#innerstillness",
+        "#deepquotes"
+      ],
+      "image": "output/2026-11-12-morning-43231882582-1.png",
+      "video": "output/2026-11-12-morning-43231882582-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-12T13:55:20+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18092245124302817",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

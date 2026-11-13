@@ -5188,6 +5188,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-14",
+      "quote": {
+        "text": "Sometimes you call yourself lazy because it is simpler than admitting you do not want the outcome you have been telling everyone you are working toward.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#selfgrowthjourney",
+        "#life",
+        "#dailyreflection",
+        "#intentionalliving",
+        "#wisdom",
+        "#innerstillness",
+        "#mindsetshift",
+        "#positivity",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#growth",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#quotes",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#inspiration",
+        "#editorialquotes",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-11-14-night-43514126474-1.png",
+      "video": "output/2026-11-14-night-43514126474-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-13T21:50:14+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18121285670326597",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

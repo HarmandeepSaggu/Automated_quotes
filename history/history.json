@@ -5235,6 +5235,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-14",
+      "quote": {
+        "text": "An evening of doing nothing is not restful when you spend all of it accusing yourself of doing nothing. Your body stopped; your internal demands kept their usual hours.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#quotesdaily",
+        "#success",
+        "#quietwisdom",
+        "#lifeinwords",
+        "#love",
+        "#editorialquotes",
+        "#deepquotes",
+        "#life",
+        "#thoughtfulwords",
+        "#selfgrowthjourney",
+        "#wisdom",
+        "#mindfulwriting",
+        "#intentionalliving",
+        "#positivity",
+        "#dailyreflection",
+        "#mindsetshift",
+        "#growth",
+        "#innerstillness",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-11-14-morning-43594630225-1.png",
+      "video": "output/2026-11-14-morning-43594630225-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-14T12:24:16+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17976131016188120",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -5329,6 +5329,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-15",
+      "quote": {
+        "text": "The hardest part of returning is facing the person who stopped. You would rather invent a new system than forgive yourself enough to continue using the old one.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#quotesdaily",
+        "#positivity",
+        "#glimpseofthoughts",
+        "#lifeinwords",
+        "#growth",
+        "#quietwisdom",
+        "#deepquotes",
+        "#quotes",
+        "#editorialquotes",
+        "#selfgrowthjourney",
+        "#inspiration",
+        "#thoughtfulwords",
+        "#intentionalliving",
+        "#motivation",
+        "#mindfulwriting",
+        "#mindsetshift",
+        "#mindfulness",
+        "#dailyreflection",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-11-15-night-43637772602-1.png",
+      "video": "output/2026-11-15-night-43637772602-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-14T20:29:50+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18202197823390206",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

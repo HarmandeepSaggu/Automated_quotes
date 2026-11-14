@@ -5282,6 +5282,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-14",
+      "quote": {
+        "text": "You cannot keep treating small interruptions as reasons to abandon the entire day. Eventually the standards meant to protect your work become the easiest way to avoid doing it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#meaningfullife",
+        "#mindfulness",
+        "#glimpseofthoughts",
+        "#reflectivewriting",
+        "#success",
+        "#quietwisdom",
+        "#modernwisdom",
+        "#love",
+        "#editorialquotes",
+        "#quotesdaily",
+        "#life",
+        "#thoughtfulwords",
+        "#lifeinwords",
+        "#wisdom",
+        "#mindfulwriting",
+        "#deepquotes",
+        "#positivity",
+        "#dailyreflection",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-11-14-evening-43617455238-1.png",
+      "video": "output/2026-11-14-evening-43617455238-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-14T16:46:57+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18133204414806354",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

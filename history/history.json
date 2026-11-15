@@ -5470,6 +5470,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-16",
+      "quote": {
+        "text": "A promise to yourself feels optional when nobody else will be disappointed. That is worth noticing if you can rearrange your whole day for a promise made to anyone else.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#deepquotes",
+        "#life",
+        "#dailyreflection",
+        "#selfgrowthjourney",
+        "#wisdom",
+        "#innerstillness",
+        "#intentionalliving",
+        "#positivity",
+        "#softstrength",
+        "#mindsetshift",
+        "#growth",
+        "#glimpseofthoughts",
+        "#disciplineequalsfreedom",
+        "#quotes",
+        "#quietwisdom",
+        "#meaningfullife",
+        "#inspiration",
+        "#editorialquotes",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-11-16-night-43760564208-1.png",
+      "video": "output/2026-11-16-night-43760564208-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-15T20:53:32+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17976157902148371",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

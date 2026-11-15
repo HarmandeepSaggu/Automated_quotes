@@ -5376,6 +5376,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-15",
+      "quote": {
+        "text": "Not every urgent request deserves the best hour of your day. Some people call things emergencies because they have learned you will set your own work aside.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#success",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#love",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#life",
+        "#innerstillness",
+        "#deepquotes",
+        "#wisdom",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#glimpseofthoughts",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-15-morning-43716135400-1.png",
+      "video": "output/2026-11-15-morning-43716135400-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-15T12:53:39+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18134110475497729",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

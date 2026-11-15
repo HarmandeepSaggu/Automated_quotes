@@ -5423,6 +5423,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-15",
+      "quote": {
+        "text": "You notice the temptation more clearly than the tiredness that made it persuasive. It is easy to judge a decision without noticing how little capacity was left to make it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#quotesdaily",
+        "#wisdom",
+        "#editorialquotes",
+        "#lifeinwords",
+        "#positivity",
+        "#thoughtfulwords",
+        "#deepquotes",
+        "#growth",
+        "#mindfulwriting",
+        "#selfgrowthjourney",
+        "#quotes",
+        "#dailyreflection",
+        "#intentionalliving",
+        "#inspiration",
+        "#innerstillness",
+        "#mindsetshift",
+        "#motivation",
+        "#softstrength",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-11-15-evening-43741402524-1.png",
+      "video": "output/2026-11-15-evening-43741402524-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-15T17:29:56+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18110890148180234",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

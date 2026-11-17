@@ -5611,6 +5611,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-17",
+      "quote": {
+        "text": "Being strict with yourself is easy when you are angry at who you have been. The harder question is whether you can stay committed without needing someone to hate.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#intentionalliving",
+        "#mindfulness",
+        "#editorialquotes",
+        "#mindsetshift",
+        "#success",
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#love",
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#life",
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#wisdom",
+        "#innerstillness",
+        "#modernwisdom",
+        "#positivity",
+        "#softstrength",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-11-17-night-43984335912-1.png",
+      "video": "output/2026-11-17-night-43984335912-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-17T00:02:43+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18118820354091851",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

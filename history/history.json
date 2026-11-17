@@ -5714,6 +5714,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-18",
+      "quote": {
+        "text": "Every unfinished task asks for a little attention whenever you remember it exists. Some tiredness is not from today's work, but from keeping yesterday open in your head.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#mindsetshift",
+        "#positivity",
+        "#glimpseofthoughts",
+        "#disciplineequalsfreedom",
+        "#growth",
+        "#quietwisdom",
+        "#meaningfullife",
+        "#quotes",
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#inspiration",
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#motivation",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#mindfulness",
+        "#dailyreflection",
+        "#lifeinwords"
+      ],
+      "image": "output/2026-11-18-night-44198963300-1.png",
+      "video": "output/2026-11-18-night-44198963300-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-17T23:23:47+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18078656795750533",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -5667,6 +5667,53 @@
         "source": "local"
       },
       "status": "reserved"
+    },
+    {
+      "date": "2026-11-18",
+      "quote": {
+        "text": "You learned to wait for pressure because pressure was the only thing that made starting feel necessary. Now a peaceful deadline can feel strangely impossible to use.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#modernwisdom",
+        "#quotes",
+        "#innerstillness",
+        "#quotesdaily",
+        "#inspiration",
+        "#softstrength",
+        "#lifeinwords",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#deepquotes",
+        "#mindfulness",
+        "#quietwisdom",
+        "#selfgrowthjourney",
+        "#success",
+        "#editorialquotes",
+        "#intentionalliving",
+        "#love",
+        "#thoughtfulwords",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-11-18-evening-44158923660-1.png",
+      "video": "output/2026-11-18-evening-44158923660-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-17T19:28:30+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18162489961507225",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

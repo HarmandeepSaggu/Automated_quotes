@@ -5761,6 +5761,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-18",
+      "quote": {
+        "text": "A missed morning is inconvenient. The story that you always ruin everything can consume the rest of the week. Sometimes the reaction to slipping costs more than the slip.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#wisdom",
+        "#innerstillness",
+        "#modernwisdom",
+        "#positivity",
+        "#softstrength",
+        "#quotesdaily",
+        "#growth",
+        "#glimpseofthoughts",
+        "#lifeinwords",
+        "#quotes",
+        "#quietwisdom",
+        "#deepquotes",
+        "#inspiration",
+        "#editorialquotes",
+        "#selfgrowthjourney",
+        "#motivation",
+        "#thoughtfulwords",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-18-morning-44324205121-1.png",
+      "video": "output/2026-11-18-morning-44324205121-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-18T14:26:31+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17913197778583903",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

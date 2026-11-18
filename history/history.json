@@ -5808,6 +5808,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-19",
+      "quote": {
+        "text": "You may not need more accountability. You may need one commitment that does not begin with embarrassment about the person you are before the commitment is completed.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#quotesdaily",
+        "#love",
+        "#thoughtfulwords",
+        "#lifeinwords",
+        "#life",
+        "#mindfulwriting",
+        "#deepquotes",
+        "#wisdom",
+        "#dailyreflection",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#innerstillness",
+        "#intentionalliving",
+        "#growth",
+        "#softstrength",
+        "#mindsetshift",
+        "#quotes",
+        "#glimpseofthoughts",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-11-19-evening-44377781848-1.png",
+      "video": "output/2026-11-19-evening-44377781848-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-18T19:11:17+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18117567326334653",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

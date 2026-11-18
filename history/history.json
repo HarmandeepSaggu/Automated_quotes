@@ -5855,6 +5855,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-19",
+      "quote": {
+        "text": "There is a difference between having free time and having attention left. A calendar cannot show how much of the evening was spent recovering from the day.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#growth",
+        "#glimpseofthoughts",
+        "#intentionalliving",
+        "#quotes",
+        "#quietwisdom",
+        "#mindsetshift",
+        "#inspiration",
+        "#editorialquotes",
+        "#disciplineequalsfreedom",
+        "#motivation",
+        "#thoughtfulwords",
+        "#meaningfullife",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#reflectivewriting",
+        "#success",
+        "#dailyreflection",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-11-19-night-44415642847-1.png",
+      "video": "output/2026-11-19-night-44415642847-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-18T22:52:41+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17920924998521654",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

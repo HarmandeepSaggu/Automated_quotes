@@ -5902,6 +5902,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-19",
+      "quote": {
+        "text": "The easiest habit to defend is the one whose cost arrives later. You can make a reasonable excuse tonight and leave someone slightly older to live with it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#growth",
+        "#thoughtfulwords",
+        "#modernwisdom",
+        "#quotes",
+        "#mindfulwriting",
+        "#quotesdaily",
+        "#inspiration",
+        "#dailyreflection",
+        "#lifeinwords",
+        "#motivation",
+        "#innerstillness",
+        "#deepquotes",
+        "#mindfulness",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#success",
+        "#glimpseofthoughts",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-19-morning-44545734734-1.png",
+      "video": "output/2026-11-19-morning-44545734734-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-19T14:37:28+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17968991460210786",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

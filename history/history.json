@@ -5949,6 +5949,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-20",
+      "quote": {
+        "text": "When every choice becomes a rule, life starts feeling like a series of violations. Even a useful routine needs room for the person it was supposed to help.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#glimpseofthoughts",
+        "#reflectivewriting",
+        "#motivation",
+        "#quietwisdom",
+        "#modernwisdom",
+        "#mindfulness",
+        "#editorialquotes",
+        "#quotesdaily",
+        "#success",
+        "#thoughtfulwords",
+        "#lifeinwords",
+        "#love",
+        "#mindfulwriting",
+        "#deepquotes",
+        "#life",
+        "#dailyreflection",
+        "#selfgrowthjourney",
+        "#wisdom",
+        "#innerstillness",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-20-evening-44596297267-1.png",
+      "video": "output/2026-11-20-evening-44596297267-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-19T19:15:08+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18012424538783621",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

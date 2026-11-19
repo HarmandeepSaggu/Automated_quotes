@@ -5996,6 +5996,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-20",
+      "quote": {
+        "text": "You cannot judge a system only on the days you feel capable. The real test is whether it gives you somewhere to begin when your confidence is missing.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#deepquotes",
+        "#life",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#intentionalliving",
+        "#positivity",
+        "#quietwisdom",
+        "#mindsetshift",
+        "#growth",
+        "#editorialquotes",
+        "#disciplineequalsfreedom",
+        "#quotes",
+        "#thoughtfulwords",
+        "#meaningfullife",
+        "#inspiration",
+        "#mindfulwriting",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-11-20-night-44633253127-1.png",
+      "video": "output/2026-11-20-night-44633253127-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-19T22:57:00+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18107758295643200",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -6137,6 +6137,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-21",
+      "quote": {
+        "text": "The task you avoid all day can become the explanation for why you did nothing else either. One difficult thing quietly acquires permission to cancel everything around it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#modernwisdom",
+        "#wisdom",
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#positivity",
+        "#mindfulwriting",
+        "#lifeinwords",
+        "#growth",
+        "#dailyreflection",
+        "#deepquotes",
+        "#quotes",
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#inspiration",
+        "#softstrength",
+        "#intentionalliving",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-11-21-night-44829712955-1.png",
+      "video": "output/2026-11-21-night-44829712955-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-20T22:32:11+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18120271420812528",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -6090,6 +6090,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-21",
+      "quote": {
+        "text": "A phone can make loneliness feel busy without making it any smaller. You finish the evening knowing what everyone else is doing and almost nothing about what you needed.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#modernwisdom",
+        "#positivity",
+        "#editorialquotes",
+        "#quotesdaily",
+        "#growth",
+        "#thoughtfulwords",
+        "#lifeinwords",
+        "#quotes",
+        "#mindfulwriting",
+        "#deepquotes",
+        "#inspiration",
+        "#dailyreflection",
+        "#selfgrowthjourney",
+        "#motivation",
+        "#innerstillness",
+        "#intentionalliving",
+        "#mindfulness",
+        "#softstrength",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-11-21-evening-44797170283-1.png",
+      "video": "output/2026-11-21-evening-44797170283-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-20T18:54:45+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18120087847815694",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

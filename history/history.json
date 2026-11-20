@@ -6043,6 +6043,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-20",
+      "quote": {
+        "text": "You are not always resisting the work. Sometimes you are resisting how you expect to treat yourself if the result is ordinary instead of proof that you are special.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#modernwisdom",
+        "#success",
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#love",
+        "#mindfulwriting",
+        "#lifeinwords",
+        "#life",
+        "#dailyreflection",
+        "#deepquotes",
+        "#wisdom",
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#softstrength",
+        "#intentionalliving",
+        "#growth",
+        "#glimpseofthoughts",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-11-20-morning-44751668139-1.png",
+      "video": "output/2026-11-20-morning-44751668139-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-20T14:15:26+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18148021228583858",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

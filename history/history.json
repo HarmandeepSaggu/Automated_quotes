@@ -6278,6 +6278,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-22",
+      "quote": {
+        "text": "You can become so good at enduring that you stop checking whether the situation still deserves your effort. Tolerance is useful, but it cannot make the decision for you.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#love",
+        "#glimpseofthoughts",
+        "#intentionalliving",
+        "#life",
+        "#quietwisdom",
+        "#mindsetshift",
+        "#wisdom",
+        "#editorialquotes",
+        "#disciplineequalsfreedom",
+        "#positivity",
+        "#thoughtfulwords",
+        "#meaningfullife",
+        "#growth",
+        "#mindfulwriting",
+        "#reflectivewriting",
+        "#quotes",
+        "#dailyreflection",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-11-22-night-44951803278-1.png",
+      "video": "output/2026-11-22-night-44951803278-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-21T21:29:55+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18062583644802625",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

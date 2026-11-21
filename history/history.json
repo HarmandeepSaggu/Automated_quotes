@@ -6231,6 +6231,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-21",
+      "quote": {
+        "text": "It is easy to confuse a difficult routine with an effective one. Suffering feels like evidence of seriousness, even when the same result could have cost you much less.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#softstrength",
+        "#intentionalliving",
+        "#positivity",
+        "#glimpseofthoughts",
+        "#mindsetshift",
+        "#growth",
+        "#quietwisdom",
+        "#disciplineequalsfreedom",
+        "#quotes",
+        "#editorialquotes",
+        "#meaningfullife",
+        "#inspiration",
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#motivation",
+        "#mindfulwriting",
+        "#modernwisdom",
+        "#mindfulness",
+        "#dailyreflection",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-11-21-evening-44932137873-1.png",
+      "video": "output/2026-11-21-evening-44932137873-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-21T17:49:46+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18060654821804051",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -6184,6 +6184,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-21",
+      "quote": {
+        "text": "Sometimes being dependable means admitting sooner that you cannot do what you promised. Silence protects your image briefly, but leaves someone else less time to handle the truth.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#modernwisdom",
+        "#success",
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#love",
+        "#mindfulwriting",
+        "#lifeinwords",
+        "#life",
+        "#dailyreflection",
+        "#deepquotes",
+        "#wisdom",
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#positivity",
+        "#softstrength",
+        "#intentionalliving",
+        "#growth",
+        "#glimpseofthoughts",
+        "#mindsetshift"
+      ],
+      "image": "output/2026-11-21-morning-44909848854-1.png",
+      "video": "output/2026-11-21-morning-44909848854-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-21T13:38:29+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18122266504994827",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

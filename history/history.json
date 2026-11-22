@@ -6419,6 +6419,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-23",
+      "quote": {
+        "text": "You keep promising to stop after one more thing. The list keeps growing because finishing it was never the condition. Feeling safe enough to stop was the part you could not reach.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#intentionalliving",
+        "#mindfulness",
+        "#innerstillness",
+        "#mindsetshift",
+        "#success",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#love",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#life",
+        "#quietwisdom",
+        "#reflectivewriting",
+        "#wisdom",
+        "#editorialquotes",
+        "#modernwisdom",
+        "#positivity",
+        "#thoughtfulwords",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-11-23-night-45073130263-1.png",
+      "video": "output/2026-11-23-night-45073130263-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-22T21:37:36+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18140155081649102",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

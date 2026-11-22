@@ -6372,6 +6372,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-22",
+      "quote": {
+        "text": "Some habits survive because they solve a real problem in a costly way. Taking them away without noticing the problem can leave you disciplined and still desperately needing relief.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#disciplineequalsfreedom",
+        "#quotes",
+        "#dailyreflection",
+        "#meaningfullife",
+        "#inspiration",
+        "#innerstillness",
+        "#reflectivewriting",
+        "#motivation",
+        "#softstrength",
+        "#modernwisdom",
+        "#mindfulness",
+        "#glimpseofthoughts",
+        "#quotesdaily",
+        "#success",
+        "#quietwisdom",
+        "#lifeinwords",
+        "#love",
+        "#editorialquotes",
+        "#deepquotes"
+      ],
+      "image": "output/2026-11-22-evening-45053307643-1.png",
+      "video": "output/2026-11-22-evening-45053307643-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-22T18:08:15+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17957854419038545",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

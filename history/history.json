@@ -6325,6 +6325,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-22",
+      "quote": {
+        "text": "The first excuse usually sounds reasonable. So does the second. The pattern only becomes visible when you stop judging each decision separately and look at the week they made.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#deepquotes",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#selfgrowthjourney",
+        "#success",
+        "#dailyreflection",
+        "#intentionalliving",
+        "#love",
+        "#innerstillness",
+        "#mindsetshift",
+        "#life",
+        "#softstrength",
+        "#disciplineequalsfreedom",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#meaningfullife",
+        "#positivity",
+        "#quietwisdom",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-11-22-morning-45027868255-1.png",
+      "video": "output/2026-11-22-morning-45027868255-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-22T13:31:02+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18078484649772097",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

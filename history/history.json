@@ -6466,6 +6466,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-23",
+      "quote": {
+        "text": "Being consistent does not mean feeling like the same person every morning. It means your commitments sometimes need a smaller version for the days you have less to give.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#reflectivewriting",
+        "#inspiration",
+        "#dailyreflection",
+        "#modernwisdom",
+        "#motivation",
+        "#innerstillness",
+        "#quotesdaily",
+        "#mindfulness",
+        "#softstrength",
+        "#lifeinwords",
+        "#success",
+        "#glimpseofthoughts",
+        "#deepquotes",
+        "#love",
+        "#quietwisdom",
+        "#selfgrowthjourney",
+        "#life",
+        "#editorialquotes",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-23-morning-45215300904-1.png",
+      "video": "output/2026-11-23-morning-45215300904-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-23T16:20:13+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18118749626039158",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

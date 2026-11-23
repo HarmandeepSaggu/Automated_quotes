@@ -6513,6 +6513,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-24",
+      "quote": {
+        "text": "An elaborate morning routine can become another standard you fail before breakfast. It is worth asking whether your attempt to feel better has added more ways to feel behind.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#disciplineequalsfreedom",
+        "#motivation",
+        "#mindfulwriting",
+        "#meaningfullife",
+        "#mindfulness",
+        "#dailyreflection",
+        "#reflectivewriting",
+        "#success",
+        "#innerstillness",
+        "#modernwisdom",
+        "#love",
+        "#softstrength",
+        "#quotesdaily",
+        "#life",
+        "#glimpseofthoughts",
+        "#lifeinwords",
+        "#wisdom",
+        "#quietwisdom",
+        "#deepquotes"
+      ],
+      "image": "output/2026-11-24-evening-45278364715-1.png",
+      "video": "output/2026-11-24-evening-45278364715-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-23T22:18:28+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18123946742286633",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

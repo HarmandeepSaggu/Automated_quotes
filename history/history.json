@@ -6607,6 +6607,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-24",
+      "quote": {
+        "text": "The work you do in secret can be difficult to sustain when you have learned to recognize effort only after someone else has noticed and approved it.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#meaningfullife",
+        "#life",
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#wisdom",
+        "#mindfulwriting",
+        "#modernwisdom",
+        "#positivity",
+        "#dailyreflection",
+        "#quotesdaily",
+        "#growth",
+        "#innerstillness",
+        "#lifeinwords",
+        "#quotes",
+        "#softstrength",
+        "#deepquotes",
+        "#inspiration",
+        "#glimpseofthoughts",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-11-24-morning-45433647652-1.png",
+      "video": "output/2026-11-24-morning-45433647652-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-24T16:08:50+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18107253446021466",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

@@ -6654,6 +6654,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-25",
+      "quote": {
+        "text": "It is possible to do everything on the list and avoid the one thing that matters. Productivity makes an excellent disguise when you want to feel responsible without feeling exposed.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#quietwisdom",
+        "#mindsetshift",
+        "#mindfulness",
+        "#editorialquotes",
+        "#disciplineequalsfreedom",
+        "#success",
+        "#thoughtfulwords",
+        "#meaningfullife",
+        "#love",
+        "#mindfulwriting",
+        "#reflectivewriting",
+        "#life",
+        "#dailyreflection",
+        "#modernwisdom",
+        "#wisdom",
+        "#innerstillness",
+        "#quotesdaily",
+        "#positivity",
+        "#softstrength",
+        "#lifeinwords"
+      ],
+      "image": "output/2026-11-25-evening-45485806673-1.png",
+      "video": "output/2026-11-25-evening-45485806673-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-24T20:55:44+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18653131990003582",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

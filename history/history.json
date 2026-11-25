@@ -6701,6 +6701,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-25",
+      "quote": {
+        "text": "The part of change nobody photographs is the moment an old habit would solve an immediate feeling, and you let the feeling remain unsolved for a little longer.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#editorialquotes",
+        "#meaningfullife",
+        "#motivation",
+        "#thoughtfulwords",
+        "#reflectivewriting",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#modernwisdom",
+        "#success",
+        "#dailyreflection",
+        "#quotesdaily",
+        "#love",
+        "#innerstillness",
+        "#lifeinwords",
+        "#life",
+        "#softstrength",
+        "#deepquotes",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-11-25-night-45518055829-1.png",
+      "video": "output/2026-11-25-night-45518055829-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-25T00:26:19+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18360827389168758",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

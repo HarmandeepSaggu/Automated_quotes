@@ -6748,6 +6748,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-25",
+      "quote": {
+        "text": "You can obey a schedule so carefully that you stop noticing whether it helps. The point was to make your life more livable, not to become easier for a timetable to manage.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#quotesdaily",
+        "#positivity",
+        "#mindfulwriting",
+        "#lifeinwords",
+        "#growth",
+        "#dailyreflection",
+        "#deepquotes",
+        "#quotes",
+        "#innerstillness",
+        "#selfgrowthjourney",
+        "#inspiration",
+        "#softstrength",
+        "#intentionalliving",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#mindsetshift",
+        "#mindfulness",
+        "#quietwisdom",
+        "#disciplineequalsfreedom"
+      ],
+      "image": "output/2026-11-25-morning-45649588855-1.png",
+      "video": "output/2026-11-25-morning-45649588855-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-25T15:54:36+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18082974083388180",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

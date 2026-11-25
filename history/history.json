@@ -6795,6 +6795,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-26",
+      "quote": {
+        "text": "A difficult day does not erase a habit. But calling yourself hopeless afterward can make returning feel pointless. The language you use after a setback becomes part of the setback.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#thoughtfulwords",
+        "#intentionalliving",
+        "#mindfulness",
+        "#mindfulwriting",
+        "#mindsetshift",
+        "#success",
+        "#dailyreflection",
+        "#disciplineequalsfreedom",
+        "#love",
+        "#innerstillness",
+        "#meaningfullife",
+        "#life",
+        "#softstrength",
+        "#reflectivewriting",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#modernwisdom",
+        "#positivity",
+        "#quietwisdom",
+        "#quotesdaily"
+      ],
+      "image": "output/2026-11-26-evening-45693607114-1.png",
+      "video": "output/2026-11-26-evening-45693607114-1-reel.mp4",
+      "audio": "Audio/ReelAudio-5731.mp3",
+      "audio_index": 3,
+      "generated_at": "2026-11-25T20:18:07+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18142995772736496",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

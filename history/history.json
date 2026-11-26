@@ -6889,6 +6889,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-26",
+      "quote": {
+        "text": "Keeping a small promise can feel unimpressive when you are used to dramatic restarts. But there is a particular relief in not having to announce a different person every Monday.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#deepquotes",
+        "#life",
+        "#softstrength",
+        "#selfgrowthjourney",
+        "#wisdom",
+        "#glimpseofthoughts",
+        "#intentionalliving",
+        "#positivity",
+        "#quietwisdom",
+        "#mindsetshift",
+        "#growth",
+        "#editorialquotes",
+        "#disciplineequalsfreedom",
+        "#quotes",
+        "#thoughtfulwords",
+        "#meaningfullife",
+        "#inspiration",
+        "#mindfulwriting",
+        "#reflectivewriting"
+      ],
+      "image": "output/2026-11-26-morning-45850607877-1.png",
+      "video": "output/2026-11-26-morning-45850607877-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-26T15:35:40+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18137164906749806",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

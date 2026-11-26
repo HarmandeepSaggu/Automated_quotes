@@ -6936,6 +6936,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-27",
+      "quote": {
+        "text": "You can miss someone and still know that being close to them made you smaller than you wanted to be. Missing is not a recommendation.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#reflectivewriting",
+        "#inspiration",
+        "#softstrength",
+        "#modernwisdom",
+        "#motivation",
+        "#glimpseofthoughts",
+        "#quotesdaily",
+        "#mindfulness",
+        "#quietwisdom",
+        "#lifeinwords",
+        "#success",
+        "#editorialquotes",
+        "#deepquotes",
+        "#love",
+        "#thoughtfulwords",
+        "#selfgrowthjourney",
+        "#life",
+        "#mindfulwriting",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-27-evening-45887149430-1.png",
+      "video": "output/2026-11-27-evening-45887149430-1-reel.mp4",
+      "audio": "Audio/ReelAudio-20992.mp3",
+      "audio_index": 1,
+      "generated_at": "2026-11-26T19:55:04+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "17918132616519385",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

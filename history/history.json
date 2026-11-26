@@ -6842,6 +6842,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-26",
+      "quote": {
+        "text": "You may be asking for willpower to survive an environment that keeps making the same behavior easy. Not every repeated struggle is evidence of a weak personality.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#reflectivewriting",
+        "#love",
+        "#dailyreflection",
+        "#modernwisdom",
+        "#life",
+        "#innerstillness",
+        "#quotesdaily",
+        "#wisdom",
+        "#softstrength",
+        "#lifeinwords",
+        "#positivity",
+        "#glimpseofthoughts",
+        "#deepquotes",
+        "#growth",
+        "#quietwisdom",
+        "#selfgrowthjourney",
+        "#quotes",
+        "#editorialquotes",
+        "#intentionalliving"
+      ],
+      "image": "output/2026-11-26-night-45725793011-1.png",
+      "video": "output/2026-11-26-night-45725793011-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-26T00:02:29+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18123285500472335",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

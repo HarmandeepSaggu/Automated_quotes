@@ -7077,6 +7077,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-28",
+      "quote": {
+        "text": "A boundary can feel cruel when someone benefited from your lack of one. Their disappointment is not proof that you have harmed them.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#mindfulwriting",
+        "#mindsetshift",
+        "#positivity",
+        "#dailyreflection",
+        "#disciplineequalsfreedom",
+        "#growth",
+        "#innerstillness",
+        "#meaningfullife",
+        "#quotes",
+        "#softstrength",
+        "#reflectivewriting",
+        "#inspiration",
+        "#glimpseofthoughts",
+        "#modernwisdom",
+        "#motivation",
+        "#quietwisdom",
+        "#quotesdaily",
+        "#mindfulness",
+        "#editorialquotes",
+        "#lifeinwords"
+      ],
+      "image": "output/2026-11-28-evening-46058688466-1.png",
+      "video": "output/2026-11-28-evening-46058688466-1-reel.mp4",
+      "audio": "Audio/ReelAudio-86980.mp3",
+      "audio_index": 4,
+      "generated_at": "2026-11-27T19:43:45+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18130860251491257",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

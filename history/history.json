@@ -6983,6 +6983,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-27",
+      "quote": {
+        "text": "Some relationships end long before the goodbye. The final conversation only makes visible what both people have been avoiding with increasingly polite behavior.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#dailyreflection",
+        "#selfgrowthjourney",
+        "#success",
+        "#innerstillness",
+        "#intentionalliving",
+        "#love",
+        "#softstrength",
+        "#mindsetshift",
+        "#life",
+        "#glimpseofthoughts",
+        "#disciplineequalsfreedom",
+        "#wisdom",
+        "#quietwisdom",
+        "#meaningfullife",
+        "#positivity",
+        "#editorialquotes",
+        "#reflectivewriting",
+        "#growth",
+        "#thoughtfulwords",
+        "#modernwisdom"
+      ],
+      "image": "output/2026-11-27-night-45916412831-1.png",
+      "video": "output/2026-11-27-night-45916412831-1-reel.mp4",
+      "audio": "Audio/ReelAudio-36387.mp3",
+      "audio_index": 2,
+      "generated_at": "2026-11-27T00:23:31+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18101133815393709",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }

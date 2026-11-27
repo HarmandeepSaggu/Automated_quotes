@@ -7124,6 +7124,53 @@
         }
       ],
       "status": "posted"
+    },
+    {
+      "date": "2026-11-28",
+      "quote": {
+        "text": "The relationship became peaceful when you stopped explaining your pain in ways that made it easier for the other person to ignore.",
+        "author": "Unknown",
+        "category": "Life",
+        "source": "local"
+      },
+      "caption": "A quiet reminder to notice the life already unfolding.",
+      "hashtags": [
+        "#innerstillness",
+        "#meaningfullife",
+        "#quotes",
+        "#softstrength",
+        "#reflectivewriting",
+        "#inspiration",
+        "#glimpseofthoughts",
+        "#modernwisdom",
+        "#motivation",
+        "#quietwisdom",
+        "#quotesdaily",
+        "#mindfulness",
+        "#editorialquotes",
+        "#lifeinwords",
+        "#success",
+        "#thoughtfulwords",
+        "#deepquotes",
+        "#love",
+        "#mindfulwriting",
+        "#selfgrowthjourney"
+      ],
+      "image": "output/2026-11-28-night-46085193032-1.png",
+      "video": "output/2026-11-28-night-46085193032-1-reel.mp4",
+      "audio": "Audio/ReelAudio-19425.mp3",
+      "audio_index": 0,
+      "generated_at": "2026-11-27T23:56:28+00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "success": true,
+          "message": "Instagram Reel published",
+          "external_id": "18384256681209370",
+          "details": {}
+        }
+      ],
+      "status": "posted"
     }
   ]
 }
